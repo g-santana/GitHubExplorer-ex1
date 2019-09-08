@@ -1,0 +1,1001 @@
+name,createdAt,updatedAt,releases,primaryLanguage,pullRequests,closedIssues,totalIssues
+freeCodeCamp,2014-12-24T17:49:19Z,2019-09-08T19:16:19Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 11942},{'totalCount': 13626},{'totalCount': 13781}
+996.ICU,2019-03-26T07:31:14Z,2019-09-08T18:38:35Z,{'totalCount': 0},{'name': 'Rust'},{'totalCount': 1026},{'totalCount': 0},{'totalCount': 0}
+vue,2013-07-29T03:24:51Z,2019-09-08T19:18:03Z,{'totalCount': 207},{'name': 'JavaScript'},{'totalCount': 907},{'totalCount': 8137},{'totalCount': 8377}
+react,2013-05-24T16:15:54Z,2019-09-08T19:14:02Z,{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 5932},{'totalCount': 7425},{'totalCount': 8014}
+bootstrap,2011-07-29T21:19:00Z,2019-09-08T18:15:54Z,{'totalCount': 55},{'name': 'JavaScript'},{'totalCount': 5122},{'totalCount': 18450},{'totalCount': 18757}
+tensorflow,2015-11-07T01:19:20Z,2019-09-08T19:08:07Z,{'totalCount': 85},{'name': 'C++'},{'totalCount': 8303},{'totalCount': 17519},{'totalCount': 19942}
+free-programming-books,2013-10-11T06:50:37Z,2019-09-08T18:56:30Z,{'totalCount': 0},,{'totalCount': 2367},{'totalCount': 366},{'totalCount': 401}
+awesome,2014-07-11T13:42:37Z,2019-09-08T19:00:42Z,{'totalCount': 0},,{'totalCount': 422},{'totalCount': 217},{'totalCount': 230}
+You-Dont-Know-JS,2013-11-16T02:37:24Z,2019-09-08T19:25:09Z,{'totalCount': 0},,{'totalCount': 334},{'totalCount': 683},{'totalCount': 774}
+oh-my-zsh,2009-08-28T18:15:37Z,2019-09-08T18:29:50Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 2015},{'totalCount': 2801},{'totalCount': 2979}
+gitignore,2010-11-08T20:17:14Z,2019-09-08T17:29:14Z,{'totalCount': 0},,{'totalCount': 1314},{'totalCount': 0},{'totalCount': 0}
+coding-interview-university,2016-06-06T02:34:12Z,2019-09-08T18:57:36Z,{'totalCount': 0},,{'totalCount': 155},{'totalCount': 68},{'totalCount': 104}
+javascript,2012-11-01T23:13:50Z,2019-09-08T18:32:50Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 709},{'totalCount': 840},{'totalCount': 918}
+developer-roadmap,2017-03-15T13:45:52Z,2019-09-08T18:59:11Z,{'totalCount': 2},,{'totalCount': 24},{'totalCount': 240},{'totalCount': 405}
+d3,2010-09-27T17:22:42Z,2019-09-08T18:36:14Z,{'totalCount': 147},{'name': 'JavaScript'},{'totalCount': 432},{'totalCount': 2009},{'totalCount': 2013}
+vscode,2015-09-03T20:23:38Z,2019-09-08T18:55:05Z,{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 4073},{'totalCount': 68105},{'totalCount': 73905}
+react-native,2015-01-09T18:10:16Z,2019-09-08T18:40:12Z,{'totalCount': 128},{'name': 'JavaScript'},{'totalCount': 605},{'totalCount': 16764},{'totalCount': 17412}
+linux,2011-09-04T22:48:12Z,2019-09-08T19:16:21Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 9},{'totalCount': 0},{'totalCount': 0}
+electron,2013-04-12T01:47:36Z,2019-09-08T17:56:16Z,{'totalCount': 470},{'name': 'C++'},{'totalCount': 7339},{'totalCount': 10453},{'totalCount': 11438}
+CS-Notes,2018-02-13T14:56:24Z,2019-09-08T16:45:28Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 336},{'totalCount': 321},{'totalCount': 331}
+flutter,2015-03-06T22:54:58Z,2019-09-08T19:05:04Z,{'totalCount': 0},{'name': 'Dart'},{'totalCount': 11476},{'totalCount': 17283},{'totalCount': 24952}
+awesome-python,2014-06-27T21:00:06Z,2019-09-08T18:41:30Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 441},{'totalCount': 89},{'totalCount': 152}
+system-design-primer,2017-02-26T16:15:28Z,2019-09-08T19:21:58Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 144},{'totalCount': 28},{'totalCount': 93}
+create-react-app,2016-07-17T14:55:11Z,2019-09-08T19:01:09Z,{'totalCount': 68},{'name': 'JavaScript'},{'totalCount': 1533},{'totalCount': 4541},{'totalCount': 4905}
+the-art-of-command-line,2015-05-20T15:11:03Z,2019-09-08T19:21:37Z,{'totalCount': 0},,{'totalCount': 301},{'totalCount': 76},{'totalCount': 153}
+axios,2014-08-18T22:30:27Z,2019-09-08T19:01:57Z,{'totalCount': 20},{'name': 'JavaScript'},{'totalCount': 247},{'totalCount': 1308},{'totalCount': 1869}
+node,2014-11-26T19:57:11Z,2019-09-08T18:39:09Z,{'totalCount': 120},{'name': 'JavaScript'},{'totalCount': 2063},{'totalCount': 9622},{'totalCount': 10416}
+go,2014-08-19T04:33:40Z,2019-09-08T18:47:36Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 0},{'totalCount': 28412},{'totalCount': 33291}
+animate.css,2011-10-12T10:07:38Z,2019-09-08T19:28:59Z,{'totalCount': 19},{'name': 'CSS'},{'totalCount': 134},{'totalCount': 641},{'totalCount': 656}
+public-apis,2016-03-20T23:49:42Z,2019-09-08T18:11:07Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 674},{'totalCount': 96},{'totalCount': 110}
+Font-Awesome,2012-02-17T14:19:43Z,2019-09-08T19:02:53Z,{'totalCount': 30},{'name': 'JavaScript'},{'totalCount': 170},{'totalCount': 9958},{'totalCount': 14851}
+angular.js,2010-01-06T00:34:37Z,2019-09-08T17:08:35Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 769},{'totalCount': 8562},{'totalCount': 8950}
+Python-100-Days,2018-03-01T16:05:52Z,2019-09-08T18:50:59Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 12},{'totalCount': 43},{'totalCount': 202}
+kubernetes,2014-06-06T22:56:04Z,2019-09-08T18:52:00Z,{'totalCount': 335},{'name': 'Go'},{'totalCount': 38892},{'totalCount': 29503},{'totalCount': 31706}
+models,2016-02-05T01:15:20Z,2019-09-08T19:08:21Z,{'totalCount': 8},{'name': 'Python'},{'totalCount': 1780},{'totalCount': 3122},{'totalCount': 4613}
+free-programming-books-zh_CN,2013-11-04T01:59:19Z,2019-09-08T15:46:24Z,{'totalCount': 3},,{'totalCount': 257},{'totalCount': 206},{'totalCount': 321}
+youtube-dl,2010-10-31T14:35:07Z,2019-09-08T17:21:09Z,{'totalCount': 273},{'name': 'Python'},{'totalCount': 1370},{'totalCount': 15306},{'totalCount': 17798}
+laravel,2011-06-08T03:06:08Z,2019-09-08T18:32:29Z,{'totalCount': 21},{'name': 'PHP'},{'totalCount': 1166},{'totalCount': 0},{'totalCount': 0}
+moby,2013-01-18T18:10:57Z,2019-09-08T18:56:47Z,{'totalCount': 80},{'name': 'Go'},{'totalCount': 15804},{'totalCount': 16030},{'totalCount': 19655}
+three.js,2010-03-23T18:58:01Z,2019-09-08T17:37:27Z,{'totalCount': 100},{'name': 'JavaScript'},{'totalCount': 5995},{'totalCount': 8462},{'totalCount': 9073}
+Python,2016-07-16T09:44:01Z,2019-09-08T19:02:17Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 586},{'totalCount': 123},{'totalCount': 178}
+JavaGuide,2018-05-07T13:27:00Z,2019-09-08T16:45:30Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 183},{'totalCount': 160},{'totalCount': 198}
+puppeteer,2017-05-09T22:16:13Z,2019-09-08T19:16:38Z,{'totalCount': 32},{'name': 'JavaScript'},{'totalCount': 1329},{'totalCount': 2752},{'totalCount': 3245}
+TypeScript,2014-06-17T15:28:39Z,2019-09-08T18:39:06Z,{'totalCount': 85},{'name': 'TypeScript'},{'totalCount': 8258},{'totalCount': 19558},{'totalCount': 23185}
+javascript-algorithms,2018-03-24T07:47:04Z,2019-09-08T19:23:17Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 142},{'totalCount': 69},{'totalCount': 108}
+jquery,2009-04-03T15:20:14Z,2019-09-08T15:48:49Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 384},{'totalCount': 1835},{'totalCount': 1905}
+terminal,2017-08-11T18:38:22Z,2019-09-08T18:41:05Z,{'totalCount': 8},{'name': 'C++'},{'totalCount': 411},{'totalCount': 1547},{'totalCount': 2171}
+ant-design,2015-04-24T15:37:24Z,2019-09-08T16:57:08Z,{'totalCount': 275},{'name': 'TypeScript'},{'totalCount': 3740},{'totalCount': 13556},{'totalCount': 13877}
+angular,2014-09-18T16:12:01Z,2019-09-08T19:13:57Z,{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 2903},{'totalCount': 16089},{'totalCount': 18763}
+java-design-patterns,2014-08-09T16:45:18Z,2019-09-08T18:26:38Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 305},{'totalCount': 278},{'totalCount': 459}
+webpack,2012-03-10T10:08:14Z,2019-09-08T18:44:19Z,{'totalCount': 180},{'name': 'JavaScript'},{'totalCount': 2349},{'totalCount': 6151},{'totalCount': 6585}
+redux,2015-05-29T23:53:15Z,2019-09-08T19:29:08Z,{'totalCount': 60},{'name': 'TypeScript'},{'totalCount': 1210},{'totalCount': 1647},{'totalCount': 1675}
+material-ui,2014-08-18T19:11:54Z,2019-09-08T18:36:35Z,{'totalCount': 229},{'name': 'JavaScript'},{'totalCount': 6365},{'totalCount': 9013},{'totalCount': 9360}
+atom,2012-01-20T18:18:21Z,2019-09-08T18:24:13Z,{'totalCount': 498},{'name': 'JavaScript'},{'totalCount': 3515},{'totalCount': 14505},{'totalCount': 15017}
+swift,2015-10-23T21:15:07Z,2019-09-08T17:16:33Z,{'totalCount': 17},{'name': 'C++'},{'totalCount': 23660},{'totalCount': 0},{'totalCount': 0}
+30-seconds-of-code,2017-11-29T17:35:03Z,2019-09-08T19:01:47Z,{'totalCount': 4},{'name': 'JavaScript'},{'totalCount': 611},{'totalCount': 193},{'totalCount': 203}
+awesome-vue,2015-10-20T00:16:14Z,2019-09-08T17:11:20Z,{'totalCount': 0},,{'totalCount': 2523},{'totalCount': 72},{'totalCount': 147}
+reveal.js,2011-06-07T18:54:22Z,2019-09-08T17:38:27Z,{'totalCount': 25},{'name': 'JavaScript'},{'totalCount': 308},{'totalCount': 1279},{'totalCount': 1682}
+awesome-go,2014-07-06T13:42:15Z,2019-09-08T16:49:51Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 1827},{'totalCount': 187},{'totalCount': 195}
+socket.io,2010-03-11T18:24:48Z,2019-09-08T15:26:41Z,{'totalCount': 18},{'name': 'JavaScript'},{'totalCount': 374},{'totalCount': 2340},{'totalCount': 2741}
+build-your-own-x,2018-05-09T12:03:18Z,2019-09-08T18:25:48Z,{'totalCount': 0},,{'totalCount': 67},{'totalCount': 244},{'totalCount': 266}
+thefuck,2015-04-08T15:08:04Z,2019-09-08T14:43:46Z,{'totalCount': 14},{'name': 'Python'},{'totalCount': 383},{'totalCount': 330},{'totalCount': 483}
+Semantic-UI,2013-04-08T23:32:04Z,2019-09-08T17:56:21Z,{'totalCount': 153},{'name': 'JavaScript'},{'totalCount': 346},{'totalCount': 5184},{'totalCount': 6008}
+flask,2010-04-06T11:11:59Z,2019-09-08T18:58:17Z,{'totalCount': 9},{'name': 'Python'},{'totalCount': 969},{'totalCount': 1754},{'totalCount': 1773}
+express,2009-06-26T18:56:01Z,2019-09-08T16:07:13Z,{'totalCount': 140},{'name': 'JavaScript'},{'totalCount': 192},{'totalCount': 3017},{'totalCount': 3131}
+Chart.js,2013-03-17T23:56:36Z,2019-09-08T17:55:09Z,{'totalCount': 39},{'name': 'JavaScript'},{'totalCount': 1171},{'totalCount': 4241},{'totalCount': 4719}
+lantern,2011-02-17T22:12:29Z,2019-09-08T16:04:11Z,{'totalCount': 84},{'name': 'Go'},{'totalCount': 686},{'totalCount': 0},{'totalCount': 0}
+Apollo-11,2014-04-03T15:45:02Z,2019-09-08T19:11:53Z,{'totalCount': 0},{'name': 'Assembly'},{'totalCount': 174},{'totalCount': 244},{'totalCount': 264}
+rails,2008-04-11T02:19:47Z,2019-09-08T17:35:01Z,{'totalCount': 6},{'name': 'Ruby'},{'totalCount': 15915},{'totalCount': 12573},{'totalCount': 12939}
+keras,2015-03-28T00:35:42Z,2019-09-08T18:54:17Z,{'totalCount': 20},{'name': 'Python'},{'totalCount': 2369},{'totalCount': 6992},{'totalCount': 9515}
+elasticsearch,2010-02-08T13:20:56Z,2019-09-08T16:07:14Z,{'totalCount': 7},{'name': 'Java'},{'totalCount': 19548},{'totalCount': 19113},{'totalCount': 21018}
+django,2012-04-28T02:47:18Z,2019-09-08T17:39:19Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 4766},{'totalCount': 0},{'totalCount': 0}
+computer-science,2014-05-04T00:18:39Z,2019-09-08T19:07:35Z,{'totalCount': 0},,{'totalCount': 135},{'totalCount': 361},{'totalCount': 386}
+html5-boilerplate,2010-01-24T18:03:24Z,2019-09-08T19:08:24Z,{'totalCount': 28},{'name': 'JavaScript'},{'totalCount': 305},{'totalCount': 1147},{'totalCount': 1150}
+httpie,2012-02-25T12:39:13Z,2019-09-08T18:16:24Z,{'totalCount': 31},{'name': 'Python'},{'totalCount': 105},{'totalCount': 438},{'totalCount': 553}
+json-server,2013-11-27T13:21:13Z,2019-09-08T14:50:34Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 87},{'totalCount': 380},{'totalCount': 803}
+moment,2011-03-01T02:46:06Z,2019-09-08T15:42:26Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 601},{'totalCount': 3180},{'totalCount': 3447}
+shadowsocks-windows,2013-01-14T07:54:16Z,2019-09-08T18:50:28Z,{'totalCount': 40},{'name': 'C#'},{'totalCount': 175},{'totalCount': 2092},{'totalCount': 2202}
+Front-end-Developer-Interview-Questions,2012-02-09T23:34:10Z,2019-09-08T17:03:14Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 312},{'totalCount': 92},{'totalCount': 97}
+resume.github.com,2011-02-06T13:39:55Z,2019-09-08T17:41:13Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 84},{'totalCount': 54},{'totalCount': 83}
+awesome-machine-learning,2014-07-15T19:11:19Z,2019-09-08T14:21:03Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 535},{'totalCount': 58},{'totalCount': 60}
+spring-boot,2012-10-19T15:02:57Z,2019-09-08T19:28:38Z,{'totalCount': 35},{'name': 'Java'},{'totalCount': 41},{'totalCount': 14133},{'totalCount': 14495}
+meteor,2012-01-19T01:58:17Z,2019-09-08T15:40:14Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 1089},{'totalCount': 7772},{'totalCount': 8102}
+lodash,2012-04-07T04:11:46Z,2019-09-08T19:25:49Z,{'totalCount': 2},{'name': 'JavaScript'},{'totalCount': 549},{'totalCount': 3455},{'totalCount': 3464}
+storybook,2016-03-18T04:23:44Z,2019-09-08T19:15:09Z,{'totalCount': 336},{'name': 'TypeScript'},{'totalCount': 3263},{'totalCount': 3547},{'totalCount': 3902}
+netdata,2013-06-17T18:39:10Z,2019-09-08T18:53:24Z,{'totalCount': 23},{'name': 'C'},{'totalCount': 2568},{'totalCount': 3412},{'totalCount': 3948}
+element,2016-09-03T06:19:26Z,2019-09-08T15:18:20Z,{'totalCount': 125},{'name': 'Vue'},{'totalCount': 3010},{'totalCount': 12597},{'totalCount': 13336}
+next.js,2016-10-05T23:32:51Z,2019-09-08T18:32:55Z,{'totalCount': 391},{'name': 'JavaScript'},{'totalCount': 3046},{'totalCount': 4540},{'totalCount': 4791}
+markdown-here,2012-05-13T03:27:22Z,2019-09-08T17:58:41Z,{'totalCount': 11},{'name': 'JavaScript'},{'totalCount': 20},{'totalCount': 286},{'totalCount': 524}
+RxJava,2013-01-08T20:11:48Z,2019-09-08T17:36:25Z,{'totalCount': 179},{'name': 'Java'},{'totalCount': 2692},{'totalCount': 2756},{'totalCount': 2767}
+vue-element-admin,2017-04-17T03:35:49Z,2019-09-08T16:37:12Z,{'totalCount': 45},{'name': 'Vue'},{'totalCount': 252},{'totalCount': 1823},{'totalCount': 2189}
+requests,2011-02-13T18:38:17Z,2019-09-08T18:21:25Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 1303},{'totalCount': 2763},{'totalCount': 2973}
+LeetCodeAnimation,2018-12-06T08:01:22Z,2019-09-08T18:20:54Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 4},{'totalCount': 18},{'totalCount': 18}
+bitcoin,2010-12-19T15:16:43Z,2019-09-08T18:04:26Z,{'totalCount': 29},{'name': 'C++'},{'totalCount': 7737},{'totalCount': 4177},{'totalCount': 4883}
+every-programmer-should-know,2017-08-24T13:18:26Z,2019-09-08T15:14:32Z,{'totalCount': 0},,{'totalCount': 77},{'totalCount': 13},{'totalCount': 26}
+ansible,2012-03-06T14:58:02Z,2019-09-08T18:30:26Z,{'totalCount': 3},{'name': 'Python'},{'totalCount': 27469},{'totalCount': 20326},{'totalCount': 24376}
+rust,2010-06-16T20:39:03Z,2019-09-08T18:14:07Z,{'totalCount': 0},{'name': 'Rust'},{'totalCount': 24445},{'totalCount': 26193},{'totalCount': 31151}
+ionic,2013-08-20T23:06:02Z,2019-09-08T18:48:07Z,{'totalCount': 163},{'name': 'TypeScript'},{'totalCount': 1864},{'totalCount': 15336},{'totalCount': 16027}
+material-design-icons,2014-10-08T18:01:28Z,2019-09-08T12:20:57Z,{'totalCount': 14},{'name': 'CSS'},{'totalCount': 23},{'totalCount': 300},{'totalCount': 832}
+interviews,2017-02-14T18:19:25Z,2019-09-08T17:46:26Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 42},{'totalCount': 14},{'totalCount': 36}
+jekyll,2008-10-20T06:29:03Z,2019-09-08T16:56:37Z,{'totalCount': 93},{'name': 'Ruby'},{'totalCount': 2608},{'totalCount': 3928},{'totalCount': 3997}
+redis,2009-03-21T22:32:25Z,2019-09-08T17:32:23Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 773},{'totalCount': 2183},{'totalCount': 3770}
+FiraCode,2014-11-11T19:32:38Z,2019-09-08T14:53:30Z,{'totalCount': 19},{'name': 'Clojure'},{'totalCount': 75},{'totalCount': 537},{'totalCount': 717}
+opencv,2012-07-19T09:40:17Z,2019-09-08T17:32:45Z,{'totalCount': 38},{'name': 'C++'},{'totalCount': 7819},{'totalCount': 3964},{'totalCount': 5679}
+hugo,2013-07-04T15:26:26Z,2019-09-08T18:15:56Z,{'totalCount': 96},{'name': 'Go'},{'totalCount': 902},{'totalCount': 3560},{'totalCount': 3931}
+deno,2018-05-15T01:34:26Z,2019-09-08T16:39:07Z,{'totalCount': 51},{'name': 'Rust'},{'totalCount': 1365},{'totalCount': 808},{'totalCount': 1015}
+gatsby,2015-05-21T22:43:05Z,2019-09-08T18:05:48Z,{'totalCount': 74},{'name': 'JavaScript'},{'totalCount': 8283},{'totalCount': 7243},{'totalCount': 7786}
+react-router,2014-05-16T22:22:51Z,2019-09-08T19:01:11Z,{'totalCount': 138},{'name': 'JavaScript'},{'totalCount': 1092},{'totalCount': 5048},{'totalCount': 5093}
+architect-awesome,2018-04-06T13:30:58Z,2019-09-08T14:10:18Z,{'totalCount': 0},,{'totalCount': 41},{'totalCount': 17},{'totalCount': 51}
+protobuf,2014-08-26T15:52:15Z,2019-09-08T14:25:33Z,{'totalCount': 35},{'name': 'C++'},{'totalCount': 2326},{'totalCount': 2846},{'totalCount': 3474}
+scikit-learn,2010-08-17T09:43:38Z,2019-09-08T16:45:07Z,{'totalCount': 14},{'name': 'Python'},{'totalCount': 5120},{'totalCount': 5280},{'totalCount': 6589}
+nvm,2010-04-15T17:47:47Z,2019-09-08T18:29:12Z,{'totalCount': 49},{'name': 'Shell'},{'totalCount': 532},{'totalCount': 1063},{'totalCount': 1297}
+yarn,2016-01-19T17:39:16Z,2019-09-08T17:20:35Z,{'totalCount': 127},{'name': 'JavaScript'},{'totalCount': 1621},{'totalCount': 3445},{'totalCount': 5300}
+bulma,2016-01-23T23:48:34Z,2019-09-08T17:36:03Z,{'totalCount': 9},{'name': 'CSS'},{'totalCount': 462},{'totalCount': 1610},{'totalCount': 1820}
+materialize,2014-09-12T19:35:38Z,2019-09-08T15:14:40Z,{'totalCount': 41},{'name': 'JavaScript'},{'totalCount': 446},{'totalCount': 4504},{'totalCount': 5029}
+incubator-echarts,2013-04-03T03:18:59Z,2019-09-08T18:31:30Z,{'totalCount': 59},{'name': 'JavaScript'},{'totalCount': 249},{'totalCount': 8212},{'totalCount': 10743}
+normalize.css,2011-05-04T10:20:25Z,2019-09-08T14:19:27Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 56},{'totalCount': 430},{'totalCount': 447}
+papers-we-love,2013-12-15T14:31:41Z,2019-09-08T17:18:29Z,{'totalCount': 0},,{'totalCount': 353},{'totalCount': 110},{'totalCount': 120}
+hacker-scripts,2015-11-21T19:05:09Z,2019-09-08T15:56:48Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 55},{'totalCount': 24},{'totalCount': 53}
+Front-End-Checklist,2017-10-16T10:12:36Z,2019-09-08T19:03:59Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 133},{'totalCount': 91},{'totalCount': 97}
+awesome-android-ui,2014-12-24T01:45:03Z,2019-09-08T19:05:28Z,{'totalCount': 0},,{'totalCount': 52},{'totalCount': 0},{'totalCount': 0}
+nw.js,2012-01-04T06:21:10Z,2019-09-08T13:35:54Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 549},{'totalCount': 5613},{'totalCount': 6350}
+freecodecamp.cn,2016-09-30T03:13:43Z,2019-09-08T17:40:33Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 55},{'totalCount': 440},{'totalCount': 570}
+node-v0.x-archive,2009-05-27T16:29:46Z,2019-09-08T01:25:16Z,{'totalCount': 0},,{'totalCount': 218},{'totalCount': 5848},{'totalCount': 6383}
+awesome-selfhosted,2015-06-01T02:33:17Z,2019-09-08T18:08:16Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 1084},{'totalCount': 416},{'totalCount': 469}
+impress.js,2011-12-28T22:23:19Z,2019-09-08T16:45:53Z,{'totalCount': 13},{'name': 'JavaScript'},{'totalCount': 86},{'totalCount': 383},{'totalCount': 428}
+awesome-public-datasets,2014-11-20T06:20:50Z,2019-09-08T18:22:02Z,{'totalCount': 0},,{'totalCount': 187},{'totalCount': 41},{'totalCount': 82}
+babel,2014-09-28T13:38:23Z,2019-09-08T18:04:22Z,{'totalCount': 177},{'name': 'JavaScript'},{'totalCount': 2869},{'totalCount': 5957},{'totalCount': 6590}
+scrapy,2010-02-22T02:01:14Z,2019-09-08T18:32:09Z,{'totalCount': 10},{'name': 'Python'},{'totalCount': 1252},{'totalCount': 1557},{'totalCount': 1982}
+x64dbg,2015-04-11T20:48:23Z,2019-09-08T19:27:04Z,{'totalCount': 2},{'name': 'C++'},{'totalCount': 416},{'totalCount': 1344},{'totalCount': 1685}
+okhttp,2012-07-23T13:42:55Z,2019-09-08T14:27:47Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 2113},{'totalCount': 2606},{'totalCount': 2785}
+android-architecture,2016-02-05T13:42:07Z,2019-09-08T16:18:14Z,{'totalCount': 0},{'name': 'Kotlin'},{'totalCount': 166},{'totalCount': 261},{'totalCount': 361}
+TensorFlow-Examples,2015-11-11T14:21:19Z,2019-09-08T19:09:48Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 71},{'totalCount': 55},{'totalCount': 192}
+tech-interview-handbook,2016-07-05T05:00:48Z,2019-09-08T19:00:04Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 93},{'totalCount': 12},{'totalCount': 19}
+guava,2014-05-29T16:23:17Z,2019-09-08T17:57:49Z,{'totalCount': 27},{'name': 'Java'},{'totalCount': 102},{'totalCount': 2376},{'totalCount': 3007}
+retrofit,2010-09-06T21:39:43Z,2019-09-08T16:36:16Z,{'totalCount': 27},{'name': 'Java'},{'totalCount': 678},{'totalCount': 2179},{'totalCount': 2242}
+prettier,2016-11-29T17:13:37Z,2019-09-08T18:29:52Z,{'totalCount': 59},{'name': 'JavaScript'},{'totalCount': 2453},{'totalCount': 2982},{'totalCount': 3587}
+awesome-react,2014-08-06T05:31:44Z,2019-09-08T17:36:58Z,{'totalCount': 0},,{'totalCount': 667},{'totalCount': 56},{'totalCount': 58}
+DeepLearning-500-questions,2018-06-27T06:36:45Z,2019-09-08T16:03:01Z,{'totalCount': 0},,{'totalCount': 284},{'totalCount': 73},{'totalCount': 132}
+big-list-of-naughty-strings,2015-08-08T20:57:20Z,2019-09-08T09:35:11Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 71},{'totalCount': 24},{'totalCount': 68}
+parcel,2017-08-07T16:36:47Z,2019-09-08T16:08:33Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 785},{'totalCount': 1598},{'totalCount': 2345}
+neovim,2014-01-31T13:39:22Z,2019-09-08T19:22:58Z,{'totalCount': 17},{'name': 'Vim script'},{'totalCount': 3725},{'totalCount': 4202},{'totalCount': 4890}
+nodebestpractices,2017-09-15T08:33:19Z,2019-09-08T18:50:14Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 347},{'totalCount': 135},{'totalCount': 154}
+awesome-ios,2014-07-10T16:03:45Z,2019-09-08T15:24:30Z,{'totalCount': 0},{'name': 'Swift'},{'totalCount': 2039},{'totalCount': 424},{'totalCount': 425}
+anime,2016-03-13T21:37:45Z,2019-09-08T17:49:12Z,{'totalCount': 12},{'name': 'JavaScript'},{'totalCount': 61},{'totalCount': 389},{'totalCount': 476}
+AFNetworking,2011-05-31T21:28:44Z,2019-09-08T08:32:55Z,{'totalCount': 38},{'name': 'Objective-C'},{'totalCount': 659},{'totalCount': 2612},{'totalCount': 2935}
+awesome-nodejs,2014-07-11T13:35:34Z,2019-09-08T16:34:32Z,{'totalCount': 0},,{'totalCount': 325},{'totalCount': 85},{'totalCount': 86}
+spring-framework,2010-12-08T04:04:45Z,2019-09-08T18:45:25Z,{'totalCount': 158},{'name': 'Java'},{'totalCount': 386},{'totalCount': 17682},{'totalCount': 18521}
+build-web-application-with-golang,2012-08-02T11:49:35Z,2019-09-08T16:19:12Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 725},{'totalCount': 165},{'totalCount': 266}
+awesome-mac,2016-07-17T15:33:47Z,2019-09-08T18:25:58Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 398},{'totalCount': 191},{'totalCount': 233}
+serverless,2015-04-21T03:48:40Z,2019-09-08T08:55:59Z,{'totalCount': 120},{'name': 'JavaScript'},{'totalCount': 2300},{'totalCount': 3220},{'totalCount': 3778}
+Alamofire,2014-07-31T05:56:19Z,2019-09-07T21:09:21Z,{'totalCount': 68},{'name': 'Swift'},{'totalCount': 373},{'totalCount': 2154},{'totalCount': 2171}
+git-flight-rules,2014-07-22T20:35:09Z,2019-09-08T19:22:35Z,{'totalCount': 0},,{'totalCount': 193},{'totalCount': 44},{'totalCount': 51}
+gogs,2014-02-12T01:57:08Z,2019-09-08T15:50:23Z,{'totalCount': 56},{'name': 'Go'},{'totalCount': 905},{'totalCount': 3748},{'totalCount': 4391}
+pytorch,2016-08-13T05:26:41Z,2019-09-08T19:27:11Z,{'totalCount': 22},{'name': 'C++'},{'totalCount': 3856},{'totalCount': 6929},{'totalCount': 10156}
+realworld,2016-02-26T20:49:53Z,2019-09-08T18:50:09Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 115},{'totalCount': 120},{'totalCount': 274}
+gulp,2013-07-04T05:26:06Z,2019-09-08T15:26:31Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 377},{'totalCount': 1734},{'totalCount': 1754}
+material-design-lite,2015-01-14T22:01:33Z,2019-09-08T15:19:52Z,{'totalCount': 14},{'name': 'HTML'},{'totalCount': 655},{'totalCount': 1784},{'totalCount': 2138}
+Awesome-Hacking,2016-03-30T15:47:10Z,2019-09-08T18:43:19Z,{'totalCount': 0},,{'totalCount': 17},{'totalCount': 12},{'totalCount': 12}
+shadowsocks,2012-04-20T13:10:49Z,2019-09-08T15:38:52Z,{'totalCount': 2},{'name': 'Python'},{'totalCount': 70},{'totalCount': 0},{'totalCount': 0}
+gin,2014-06-16T23:57:25Z,2019-09-08T19:06:48Z,{'totalCount': 8},{'name': 'Go'},{'totalCount': 533},{'totalCount': 1059},{'totalCount': 1220}
+nocode,2018-02-06T23:54:00Z,2019-09-08T18:53:30Z,{'totalCount': 1},{'name': 'Dockerfile'},{'totalCount': 1},{'totalCount': 314},{'totalCount': 2779}
+hyper,2016-07-01T06:01:21Z,2019-09-08T18:56:38Z,{'totalCount': 63},{'name': 'JavaScript'},{'totalCount': 722},{'totalCount': 1955},{'totalCount': 2798}
+grafana,2013-12-11T15:59:56Z,2019-09-08T12:57:03Z,{'totalCount': 144},{'name': 'TypeScript'},{'totalCount': 4468},{'totalCount': 11258},{'totalCount': 13261}
+Ghost,2013-05-04T11:09:13Z,2019-09-08T15:45:58Z,{'totalCount': 267},{'name': 'JavaScript'},{'totalCount': 4362},{'totalCount': 5462},{'totalCount': 5508}
+awesome-courses,2014-11-15T18:36:49Z,2019-09-08T15:35:35Z,{'totalCount': 0},,{'totalCount': 181},{'totalCount': 32},{'totalCount': 57}
+pm2,2013-05-21T03:25:25Z,2019-09-08T16:26:56Z,{'totalCount': 91},{'name': 'JavaScript'},{'totalCount': 469},{'totalCount': 2962},{'totalCount': 3687}
+jQuery-File-Upload,2010-12-01T15:35:32Z,2019-09-08T06:53:15Z,{'totalCount': 0},{'name': 'PHP'},{'totalCount': 113},{'totalCount': 0},{'totalCount': 0}
+brackets,2011-12-07T21:14:40Z,2019-09-08T17:48:35Z,{'totalCount': 67},{'name': 'JavaScript'},{'totalCount': 4302},{'totalCount': 6955},{'totalCount': 9345}
+AdminLTE,2013-12-25T02:52:40Z,2019-09-08T18:06:03Z,{'totalCount': 57},{'name': 'HTML'},{'totalCount': 229},{'totalCount': 1775},{'totalCount': 1805}
+tesseract,2014-08-12T18:04:59Z,2019-09-08T19:04:33Z,{'totalCount': 7},{'name': 'C++'},{'totalCount': 926},{'totalCount': 1361},{'totalCount': 1582}
+vue2-elm,2016-12-23T01:49:20Z,2019-09-08T14:51:14Z,{'totalCount': 0},{'name': 'Vue'},{'totalCount': 19},{'totalCount': 420},{'totalCount': 464}
+advanced-java,2018-10-06T11:38:30Z,2019-09-08T15:06:34Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 29},{'totalCount': 45},{'totalCount': 64}
+git,2008-07-23T14:21:26Z,2019-09-08T18:51:35Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 2},{'totalCount': 0},{'totalCount': 0}
+awesome-interview-questions,2015-11-28T09:48:17Z,2019-09-08T18:04:44Z,{'totalCount': 0},,{'totalCount': 117},{'totalCount': 18},{'totalCount': 21}
+android-open-project,2014-01-05T15:20:15Z,2019-09-08T10:40:47Z,{'totalCount': 0},,{'totalCount': 201},{'totalCount': 67},{'totalCount': 76}
+caffe,2013-09-12T18:39:48Z,2019-09-08T18:05:55Z,{'totalCount': 14},{'name': 'C++'},{'totalCount': 1086},{'totalCount': 3841},{'totalCount': 4615}
+dubbo,2012-06-19T07:56:02Z,2019-09-08T17:11:46Z,{'totalCount': 20},{'name': 'Java'},{'totalCount': 1236},{'totalCount': 2377},{'totalCount': 2834}
+discourse,2013-01-12T00:25:55Z,2019-09-08T15:48:43Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 6258},{'totalCount': 0},{'totalCount': 0}
+kotlin,2012-02-13T17:29:58Z,2019-09-08T18:29:13Z,{'totalCount': 130},{'name': 'Kotlin'},{'totalCount': 955},{'totalCount': 0},{'totalCount': 0}
+Projects,2013-07-04T13:37:27Z,2019-09-08T15:31:36Z,{'totalCount': 0},,{'totalCount': 19},{'totalCount': 29},{'totalCount': 54}
+33-js-concepts,2018-09-04T13:27:04Z,2019-09-08T19:07:42Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 78},{'totalCount': 14},{'totalCount': 19}
+github-cheat-sheet,2014-04-12T16:38:42Z,2019-09-08T18:43:55Z,{'totalCount': 0},,{'totalCount': 125},{'totalCount': 40},{'totalCount': 43}
+XX-Net,2015-01-15T09:35:51Z,2019-09-08T10:37:37Z,{'totalCount': 272},{'name': 'Python'},{'totalCount': 354},{'totalCount': 4635},{'totalCount': 12030}
+MPAndroidChart,2014-04-25T14:29:47Z,2019-09-08T12:05:55Z,{'totalCount': 44},{'name': 'Java'},{'totalCount': 186},{'totalCount': 2741},{'totalCount': 4238}
+hackathon-starter,2013-11-13T17:24:12Z,2019-09-08T18:32:54Z,{'totalCount': 12},{'name': 'JavaScript'},{'totalCount': 284},{'totalCount': 524},{'totalCount': 533}
+immutable-js,2014-07-02T06:02:29Z,2019-09-08T18:53:56Z,{'totalCount': 57},{'name': 'JavaScript'},{'totalCount': 378},{'totalCount': 1018},{'totalCount': 1138}
+foundation-sites,2011-10-13T23:05:42Z,2019-09-08T16:00:16Z,{'totalCount': 67},{'name': 'HTML'},{'totalCount': 2835},{'totalCount': 7521},{'totalCount': 7796}
+legacy-homebrew,2009-05-20T19:38:37Z,2019-09-08T08:39:42Z,{'totalCount': 0},,{'totalCount': 222},{'totalCount': 17040},{'totalCount': 17040}
+fullPage.js,2013-09-20T11:58:29Z,2019-09-08T14:32:43Z,{'totalCount': 65},{'name': 'JavaScript'},{'totalCount': 239},{'totalCount': 3176},{'totalCount': 3297}
+learn-regex,2017-07-22T12:21:03Z,2019-09-08T18:00:12Z,{'totalCount': 0},,{'totalCount': 88},{'totalCount': 28},{'totalCount': 53}
+hexo,2012-09-23T15:17:08Z,2019-09-08T18:29:17Z,{'totalCount': 88},{'name': 'JavaScript'},{'totalCount': 334},{'totalCount': 3009},{'totalCount': 3206}
+face_recognition,2017-03-03T21:52:39Z,2019-09-08T19:24:45Z,{'totalCount': 2},{'name': 'Python'},{'totalCount': 63},{'totalCount': 452},{'totalCount': 817}
+pdf.js,2011-04-26T06:32:03Z,2019-09-08T14:47:46Z,{'totalCount': 30},{'name': 'JavaScript'},{'totalCount': 4018},{'totalCount': 5691},{'totalCount': 6311}
+slate,2013-09-13T22:15:24Z,2019-09-08T10:51:01Z,{'totalCount': 14},{'name': 'JavaScript'},{'totalCount': 159},{'totalCount': 488},{'totalCount': 520}
+syncthing,2013-11-26T09:48:21Z,2019-09-08T17:38:15Z,{'totalCount': 167},{'name': 'Go'},{'totalCount': 1172},{'totalCount': 3521},{'totalCount': 3772}
+backbone,2010-09-30T19:41:28Z,2019-09-08T15:58:40Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 849},{'totalCount': 2321},{'totalCount': 2371}
+frp,2015-12-21T15:24:59Z,2019-09-08T17:07:58Z,{'totalCount': 46},{'name': 'Go'},{'totalCount': 204},{'totalCount': 1076},{'totalCount': 1124}
+jest,2013-12-10T00:18:04Z,2019-09-08T17:17:56Z,{'totalCount': 86},{'name': 'JavaScript'},{'totalCount': 3277},{'totalCount': 4023},{'totalCount': 4687}
+koa,2013-07-20T18:53:45Z,2019-09-08T14:26:15Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 358},{'totalCount': 725},{'totalCount': 755}
+etcd,2013-07-06T21:57:21Z,2019-09-08T18:33:03Z,{'totalCount': 164},{'name': 'Go'},{'totalCount': 5551},{'totalCount': 4116},{'totalCount': 4504}
+glide,2013-07-08T22:52:33Z,2019-09-08T14:47:40Z,{'totalCount': 33},{'name': 'Java'},{'totalCount': 259},{'totalCount': 3326},{'totalCount': 3466}
+phantomjs,2010-12-27T08:18:58Z,2019-09-08T18:40:53Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 554},{'totalCount': 2855},{'totalCount': 4678}
+pixi.js,2013-01-21T22:40:50Z,2019-09-08T16:56:38Z,{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 1616},{'totalCount': 3655},{'totalCount': 3749}
+you-get,2012-08-20T15:53:36Z,2019-09-08T15:04:33Z,{'totalCount': 97},{'name': 'Python'},{'totalCount': 480},{'totalCount': 0},{'totalCount': 0}
+clipboard.js,2015-09-18T23:04:55Z,2019-09-08T09:58:46Z,{'totalCount': 35},{'name': 'JavaScript'},{'totalCount': 60},{'totalCount': 447},{'totalCount': 507}
+Best-websites-a-programmer-should-visit,2017-03-05T20:25:17Z,2019-09-08T16:22:15Z,{'totalCount': 0},,{'totalCount': 223},{'totalCount': 41},{'totalCount': 42}
+es6features,2014-03-03T18:29:30Z,2019-09-08T02:21:01Z,{'totalCount': 0},,{'totalCount': 41},{'totalCount': 36},{'totalCount': 55}
+lottie-android,2016-10-06T22:42:42Z,2019-09-08T18:41:00Z,{'totalCount': 20},{'name': 'Java'},{'totalCount': 325},{'totalCount': 979},{'totalCount': 1003}
+fastlane,2014-12-02T17:00:38Z,2019-09-08T17:27:29Z,{'totalCount': 409},{'name': 'Ruby'},{'totalCount': 4648},{'totalCount': 9515},{'totalCount': 9676}
+awesome-wechat-weapp,2016-09-22T20:04:48Z,2019-09-08T15:36:47Z,{'totalCount': 0},,{'totalCount': 204},{'totalCount': 0},{'totalCount': 0}
+cpython,2017-02-10T19:23:51Z,2019-09-08T17:25:23Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 12518},{'totalCount': 0},{'totalCount': 0}
+Algorithm_Interview_Notes-Chinese,2018-06-06T12:53:14Z,2019-09-08T16:38:01Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 8},{'totalCount': 16},{'totalCount': 36}
+frontend-dev-bookmarks,2013-06-22T13:23:55Z,2019-09-08T16:25:09Z,{'totalCount': 1},,{'totalCount': 129},{'totalCount': 77},{'totalCount': 91}
+prometheus,2012-11-24T11:14:12Z,2019-09-08T16:29:54Z,{'totalCount': 120},{'name': 'Go'},{'totalCount': 2475},{'totalCount': 2517},{'totalCount': 2845}
+home-assistant,2013-09-17T07:29:48Z,2019-09-08T18:59:15Z,{'totalCount': 449},{'name': 'Python'},{'totalCount': 12725},{'totalCount': 10030},{'totalCount': 10808}
+deeplearningbook-chinese,2016-12-07T11:46:51Z,2019-09-08T12:40:05Z,{'totalCount': 7},{'name': 'TeX'},{'totalCount': 15},{'totalCount': 130},{'totalCount': 169}
+shadowsocks-android,2012-12-16T13:40:29Z,2019-09-08T18:50:47Z,{'totalCount': 153},{'name': 'Kotlin'},{'totalCount': 209},{'totalCount': 1970},{'totalCount': 1979}
+incubator-superset,2015-07-21T18:55:34Z,2019-09-08T17:18:14Z,{'totalCount': 11},{'name': 'JavaScript'},{'totalCount': 3457},{'totalCount': 3589},{'totalCount': 3786}
+design-patterns-for-humans,2017-02-16T21:24:39Z,2019-09-08T15:38:12Z,{'totalCount': 0},,{'totalCount': 47},{'totalCount': 40},{'totalCount': 46}
+video.js,2010-05-14T18:45:10Z,2019-09-08T17:24:53Z,{'totalCount': 200},{'name': 'JavaScript'},{'totalCount': 1213},{'totalCount': 3552},{'totalCount': 3746}
+async,2010-06-01T21:01:30Z,2019-09-08T04:11:58Z,{'totalCount': 7},{'name': 'JavaScript'},{'totalCount': 403},{'totalCount': 1021},{'totalCount': 1026}
+todomvc,2011-06-03T19:56:33Z,2019-09-08T16:35:08Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 711},{'totalCount': 616},{'totalCount': 724}
+android_guides,2013-06-19T10:24:45Z,2019-09-08T16:12:37Z,{'totalCount': 0},,{'totalCount': 6},{'totalCount': 208},{'totalCount': 349}
+HEAD,2016-04-20T20:05:37Z,2019-09-08T14:53:04Z,{'totalCount': 0},,{'totalCount': 80},{'totalCount': 70},{'totalCount': 78}
+Leaflet,2010-09-22T16:57:44Z,2019-09-08T18:39:32Z,{'totalCount': 20},{'name': 'JavaScript'},{'totalCount': 1992},{'totalCount': 3713},{'totalCount': 4078}
+styled-components,2016-08-16T06:41:32Z,2019-09-08T15:47:51Z,{'totalCount': 91},{'name': 'JavaScript'},{'totalCount': 695},{'totalCount': 1697},{'totalCount': 1794}
+clean-code-javascript,2016-11-25T22:25:41Z,2019-09-08T18:32:45Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 127},{'totalCount': 57},{'totalCount': 73}
+phaser,2013-04-12T12:27:51Z,2019-09-08T13:17:55Z,{'totalCount': 89},{'name': 'JavaScript'},{'totalCount': 1129},{'totalCount': 2783},{'totalCount': 2998}
+100-Days-Of-ML-Code,2018-07-05T09:11:43Z,2019-09-08T17:49:58Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 6},{'totalCount': 13},{'totalCount': 38}
+certbot,2014-11-12T02:52:20Z,2019-09-08T14:25:59Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 2607},{'totalCount': 3592},{'totalCount': 4087}
+awesome-react-native,2015-03-26T19:58:06Z,2019-09-08T16:48:06Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 784},{'totalCount': 33},{'totalCount': 48}
+proxyee-down,2017-10-25T10:07:27Z,2019-09-08T15:04:37Z,{'totalCount': 49},{'name': 'Java'},{'totalCount': 16},{'totalCount': 0},{'totalCount': 0}
+underscore,2009-10-25T18:31:06Z,2019-09-08T16:26:06Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 684},{'totalCount': 1272},{'totalCount': 1342}
+faceswap,2017-12-19T09:44:13Z,2019-09-08T18:46:30Z,{'totalCount': 2},{'name': 'Python'},{'totalCount': 263},{'totalCount': 495},{'totalCount': 506}
+mermaid,2014-11-01T23:52:32Z,2019-09-08T14:40:49Z,{'totalCount': 34},{'name': 'JavaScript'},{'totalCount': 174},{'totalCount': 451},{'totalCount': 717}
+awesome-awesomeness,2014-07-08T05:44:19Z,2019-09-08T17:48:57Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 154},{'totalCount': 46},{'totalCount': 52}
+php-src,2011-06-16T01:52:25Z,2019-09-08T16:13:32Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 598},{'totalCount': 0},{'totalCount': 0}
+AndroidUtilCode,2016-07-30T18:18:32Z,2019-09-08T08:28:12Z,{'totalCount': 111},{'name': 'Java'},{'totalCount': 62},{'totalCount': 861},{'totalCount': 876}
+og-aws,2016-07-13T17:30:16Z,2019-09-08T15:51:33Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 449},{'totalCount': 78},{'totalCount': 192}
+what-happens-when,2013-11-07T04:30:06Z,2019-09-08T16:34:09Z,{'totalCount': 0},,{'totalCount': 104},{'totalCount': 18},{'totalCount': 96}
+butterknife,2013-03-05T08:18:59Z,2019-09-08T15:18:54Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 332},{'totalCount': 989},{'totalCount': 1074}
+ijkplayer,2013-06-03T04:12:04Z,2019-09-08T14:58:25Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 28},{'totalCount': 2377},{'totalCount': 4663}
+nylas-mail,2014-10-16T18:29:12Z,2019-09-07T05:05:04Z,{'totalCount': 53},{'name': 'JavaScript'},{'totalCount': 139},{'totalCount': 2408},{'totalCount': 3419}
+slick,2014-03-24T02:10:05Z,2019-09-08T15:14:42Z,{'totalCount': 48},{'name': 'JavaScript'},{'totalCount': 234},{'totalCount': 2299},{'totalCount': 3213}
+traefik,2015-09-13T19:04:02Z,2019-09-08T17:29:57Z,{'totalCount': 255},{'name': 'Go'},{'totalCount': 2140},{'totalCount': 2407},{'totalCount': 2819}
+godot,2014-01-04T16:05:36Z,2019-09-08T19:04:36Z,{'totalCount': 23},{'name': 'C++'},{'totalCount': 9714},{'totalCount': 13947},{'totalCount': 19231}
+go-ethereum,2013-12-26T13:05:46Z,2019-09-08T14:25:34Z,{'totalCount': 116},{'name': 'Go'},{'totalCount': 3377},{'totalCount': 4066},{'totalCount': 4424}
+angular-styleguide,2014-07-29T00:07:51Z,2019-09-08T16:04:21Z,{'totalCount': 0},,{'totalCount': 331},{'totalCount': 361},{'totalCount': 423}
+CppCoreGuidelines,2015-08-19T20:22:52Z,2019-09-08T18:40:27Z,{'totalCount': 4},{'name': 'Python'},{'totalCount': 606},{'totalCount': 612},{'totalCount': 742}
+DefinitelyTyped,2012-10-05T16:39:45Z,2019-09-08T19:26:32Z,{'totalCount': 1},{'name': 'TypeScript'},{'totalCount': 27149},{'totalCount': 2946},{'totalCount': 5850}
+algorithm-visualizer,2016-05-15T00:27:45Z,2019-09-08T15:12:03Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 177},{'totalCount': 52},{'totalCount': 58}
+Deep-Learning-Papers-Reading-Roadmap,2016-10-14T11:49:48Z,2019-09-08T13:11:20Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 22},{'totalCount': 3},{'totalCount': 40}
+Rocket.Chat,2015-05-19T07:36:09Z,2019-09-08T13:21:42Z,{'totalCount': 272},{'name': 'JavaScript'},{'totalCount': 4626},{'totalCount': 7484},{'totalCount': 9562}
+quill,2012-07-30T23:23:18Z,2019-09-08T15:46:50Z,{'totalCount': 81},{'name': 'JavaScript'},{'totalCount': 191},{'totalCount': 1773},{'totalCount': 2345}
+select2,2012-03-04T18:43:12Z,2019-09-08T14:40:28Z,{'totalCount': 23},{'name': 'JavaScript'},{'totalCount': 617},{'totalCount': 4257},{'totalCount': 4302}
+free-for-dev,2015-03-18T21:06:26Z,2019-09-08T15:44:05Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 801},{'totalCount': 103},{'totalCount': 119}
+programmer-job-blacklist,2016-06-25T06:09:10Z,2019-09-08T14:02:15Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 16},{'totalCount': 167},{'totalCount': 270}
+Modernizr,2009-09-25T20:13:23Z,2019-09-08T13:46:32Z,{'totalCount': 11},{'name': 'JavaScript'},{'totalCount': 697},{'totalCount': 1222},{'totalCount': 1379}
+project-based-learning,2017-04-12T05:07:46Z,2019-09-08T18:01:04Z,{'totalCount': 0},,{'totalCount': 108},{'totalCount': 12},{'totalCount': 24}
+fzf,2013-10-23T16:04:23Z,2019-09-08T18:49:42Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 186},{'totalCount': 1193},{'totalCount': 1335}
+gold-miner,2015-11-04T03:29:13Z,2019-09-08T17:31:54Z,{'totalCount': 0},,{'totalCount': 2117},{'totalCount': 4002},{'totalCount': 4026}
+julia,2011-04-21T07:01:50Z,2019-09-08T18:24:09Z,{'totalCount': 75},{'name': 'Julia'},{'totalCount': 13172},{'totalCount': 13903},{'totalCount': 16596}
+leakcanary,2015-04-29T23:54:16Z,2019-09-08T18:21:34Z,{'totalCount': 17},{'name': 'Kotlin'},{'totalCount': 455},{'totalCount': 995},{'totalCount': 1025}
+preact,2015-09-11T02:40:18Z,2019-09-08T14:26:11Z,{'totalCount': 109},{'name': 'JavaScript'},{'totalCount': 585},{'totalCount': 890},{'totalCount': 965}
+caddy,2015-01-13T19:45:03Z,2019-09-08T16:47:48Z,{'totalCount': 47},{'name': 'Go'},{'totalCount': 788},{'totalCount': 1614},{'totalCount': 1732}
+zxing,2011-10-12T14:07:27Z,2019-09-08T17:45:32Z,{'totalCount': 26},{'name': 'Java'},{'totalCount': 148},{'totalCount': 924},{'totalCount': 932}
+tldr,2013-12-08T07:34:43Z,2019-09-08T18:55:56Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 2399},{'totalCount': 380},{'totalCount': 449}
+react-boilerplate,2015-02-18T14:36:32Z,2019-09-08T19:04:23Z,{'totalCount': 16},{'name': 'JavaScript'},{'totalCount': 684},{'totalCount': 1651},{'totalCount': 1667}
+spark,2014-02-25T08:00:08Z,2019-09-08T01:32:36Z,{'totalCount': 0},{'name': 'Scala'},{'totalCount': 3},{'totalCount': 0},{'totalCount': 0}
+kong,2014-11-17T23:56:08Z,2019-09-08T17:35:40Z,{'totalCount': 65},{'name': 'Lua'},{'totalCount': 1630},{'totalCount': 2292},{'totalCount': 2572}
+request,2011-01-23T01:25:14Z,2019-09-08T12:59:26Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 648},{'totalCount': 1888},{'totalCount': 2066}
+svelte,2016-11-20T18:13:05Z,2019-09-08T17:15:58Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 1323},{'totalCount': 1633},{'totalCount': 1991}
+dayjs,2018-04-10T09:26:44Z,2019-09-08T18:13:33Z,{'totalCount': 67},{'name': 'JavaScript'},{'totalCount': 328},{'totalCount': 227},{'totalCount': 265}
+500lines,2013-11-04T02:02:53Z,2019-09-08T18:32:58Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 175},{'totalCount': 36},{'totalCount': 60}
+ShadowsocksX-NG,2016-06-10T11:49:00Z,2019-09-08T12:48:24Z,{'totalCount': 21},{'name': 'Swift'},{'totalCount': 54},{'totalCount': 843},{'totalCount': 998}
+weui,2014-12-18T04:09:54Z,2019-09-08T12:57:45Z,{'totalCount': 14},{'name': 'CSS'},{'totalCount': 159},{'totalCount': 557},{'totalCount': 570}
+code-server,2019-02-27T16:50:41Z,2019-09-08T19:23:21Z,{'totalCount': 23},{'name': 'TypeScript'},{'totalCount': 126},{'totalCount': 444},{'totalCount': 744}
+grpc,2014-12-08T18:58:53Z,2019-09-08T15:54:54Z,{'totalCount': 119},{'name': 'C++'},{'totalCount': 10201},{'totalCount': 6882},{'totalCount': 7534}
+gitflow,2010-01-20T23:14:12Z,2019-09-08T16:14:24Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 36},{'totalCount': 112},{'totalCount': 329}
+fetch,2014-10-13T00:26:19Z,2019-09-07T08:00:35Z,{'totalCount': 27},{'name': 'JavaScript'},{'totalCount': 115},{'totalCount': 469},{'totalCount': 476}
+rethinkdb,2012-10-30T05:37:47Z,2019-09-08T18:20:41Z,{'totalCount': 67},{'name': 'C++'},{'totalCount': 344},{'totalCount': 4744},{'totalCount': 6187}
+the-book-of-secret-knowledge,2018-06-23T10:43:14Z,2019-09-08T18:47:05Z,{'totalCount': 0},,{'totalCount': 56},{'totalCount': 24},{'totalCount': 26}
+vue-cli,2015-12-26T23:11:20Z,2019-09-08T18:04:27Z,{'totalCount': 97},{'name': 'JavaScript'},{'totalCount': 705},{'totalCount': 3231},{'totalCount': 3567}
+machine-learning-for-software-engineers,2016-10-09T21:20:25Z,2019-09-08T16:24:14Z,{'totalCount': 0},,{'totalCount': 50},{'totalCount': 3},{'totalCount': 12}
+iview,2016-07-28T01:52:59Z,2019-09-08T15:19:53Z,{'totalCount': 81},{'name': 'Vue'},{'totalCount': 502},{'totalCount': 4289},{'totalCount': 5252}
+standard,2015-01-27T01:23:31Z,2019-09-08T17:19:44Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 268},{'totalCount': 942},{'totalCount': 1008}
+JCSprout,2017-12-17T09:06:50Z,2019-09-08T14:20:08Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 69},{'totalCount': 56},{'totalCount': 78}
+angular-cli,2015-06-04T19:49:37Z,2019-09-08T17:19:34Z,{'totalCount': 199},{'name': 'TypeScript'},{'totalCount': 3292},{'totalCount': 10066},{'totalCount': 10758}
+awesome-java,2014-07-09T10:12:43Z,2019-09-08T17:31:24Z,{'totalCount': 0},,{'totalCount': 473},{'totalCount': 88},{'totalCount': 90}
+nuxt.js,2016-10-26T11:18:47Z,2019-09-08T16:01:38Z,{'totalCount': 117},{'name': 'JavaScript'},{'totalCount': 1426},{'totalCount': 4396},{'totalCount': 4554}
+chosen,2011-04-18T15:07:41Z,2019-09-07T06:48:18Z,{'totalCount': 34},{'name': 'HTML'},{'totalCount': 309},{'totalCount': 2098},{'totalCount': 2307}
+awesome-php,2013-11-26T03:14:19Z,2019-09-08T16:22:20Z,{'totalCount': 0},,{'totalCount': 327},{'totalCount': 99},{'totalCount': 101}
+huginn,2013-03-10T06:00:31Z,2019-09-08T14:30:15Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 835},{'totalCount': 1236},{'totalCount': 1540}
+dotfiles,2011-09-05T18:07:54Z,2019-09-08T14:28:13Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 40},{'totalCount': 226},{'totalCount': 345}
+sentry,2010-08-30T22:06:41Z,2019-09-08T19:16:07Z,{'totalCount': 52},{'name': 'Python'},{'totalCount': 9756},{'totalCount': 2896},{'totalCount': 3668}
+gitlabhq,2011-10-02T16:25:27Z,2019-09-08T08:50:28Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 2227},{'totalCount': 0},{'totalCount': 0}
+python-patterns,2012-06-06T21:02:35Z,2019-09-08T18:53:28Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 199},{'totalCount': 49},{'totalCount': 58}
+SDWebImage,2009-09-21T17:39:19Z,2019-09-08T05:35:36Z,{'totalCount': 57},{'name': 'Objective-C'},{'totalCount': 648},{'totalCount': 1769},{'totalCount': 1791}
+beego,2012-02-29T02:32:08Z,2019-09-08T19:09:12Z,{'totalCount': 4},{'name': 'Go'},{'totalCount': 742},{'totalCount': 1885},{'totalCount': 2564}
+awesome-scalability,2017-12-27T03:46:40Z,2019-09-08T18:45:10Z,{'totalCount': 0},,{'totalCount': 18},{'totalCount': 0},{'totalCount': 0}
+Faker,2011-10-14T22:49:02Z,2019-09-08T17:36:23Z,{'totalCount': 9},{'name': 'PHP'},{'totalCount': 719},{'totalCount': 456},{'totalCount': 489}
+Hover,2014-01-02T14:27:35Z,2019-09-08T19:10:09Z,{'totalCount': 10},{'name': 'CSS'},{'totalCount': 22},{'totalCount': 78},{'totalCount': 95}
+Detectron,2017-10-05T17:32:00Z,2019-09-08T17:05:29Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 0},{'totalCount': 583},{'totalCount': 835}
+wrk,2012-03-20T11:12:28Z,2019-09-08T12:05:29Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 0},{'totalCount': 216},{'totalCount': 290}
+awesome-macos-command-line,2015-09-22T19:37:55Z,2019-09-08T15:03:17Z,{'totalCount': 0},,{'totalCount': 90},{'totalCount': 0},{'totalCount': 0}
+taro,2018-04-08T09:32:26Z,2019-09-08T19:29:47Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 472},{'totalCount': 3172},{'totalCount': 3715}
+symfony,2010-01-04T14:21:21Z,2019-09-08T18:31:59Z,{'totalCount': 189},{'name': 'PHP'},{'totalCount': 12738},{'totalCount': 12052},{'totalCount': 12700}
+awesome-flutter,2017-05-07T11:45:27Z,2019-09-08T17:45:48Z,{'totalCount': 0},{'name': 'Dart'},{'totalCount': 253},{'totalCount': 0},{'totalCount': 0}
+styleguide,2015-05-20T19:18:59Z,2019-09-08T17:29:06Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 83},{'totalCount': 67},{'totalCount': 208}
+Charts,2015-03-20T10:49:12Z,2019-09-08T18:55:03Z,{'totalCount': 29},{'name': 'Swift'},{'totalCount': 344},{'totalCount': 2998},{'totalCount': 3444}
+EventBus,2012-07-16T16:55:40Z,2019-09-08T18:51:12Z,{'totalCount': 4},{'name': 'Java'},{'totalCount': 25},{'totalCount': 416},{'totalCount': 500}
+vuex,2015-07-16T04:21:26Z,2019-09-08T14:25:49Z,{'totalCount': 31},{'name': 'JavaScript'},{'totalCount': 486},{'totalCount': 831},{'totalCount': 927}
+postcss,2013-09-24T23:06:48Z,2019-09-08T19:01:05Z,{'totalCount': 137},{'name': 'JavaScript'},{'totalCount': 552},{'totalCount': 597},{'totalCount': 610}
+vuetify,2016-09-12T00:39:35Z,2019-09-08T19:05:13Z,{'totalCount': 266},{'name': 'TypeScript'},{'totalCount': 1796},{'totalCount': 5655},{'totalCount': 6451}
+awesome-cpp,2014-07-17T08:51:11Z,2019-09-08T17:50:03Z,{'totalCount': 0},,{'totalCount': 362},{'totalCount': 134},{'totalCount': 394}
+CodeHub,2013-07-23T22:19:57Z,2019-09-08T17:18:26Z,{'totalCount': 4},{'name': 'C#'},{'totalCount': 11},{'totalCount': 364},{'totalCount': 570}
+devdocs,2013-10-24T18:16:07Z,2019-09-08T15:32:43Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 98},{'totalCount': 686},{'totalCount': 750}
+gitbook,2014-03-31T03:01:56Z,2019-09-08T16:29:31Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 214},{'totalCount': 0},{'totalCount': 0}
+carbon,2017-06-16T02:50:28Z,2019-09-08T15:23:05Z,{'totalCount': 121},{'name': 'JavaScript'},{'totalCount': 382},{'totalCount': 363},{'totalCount': 376}
+swift-algorithm-club,2016-01-26T17:56:12Z,2019-09-08T19:22:27Z,{'totalCount': 0},{'name': 'Swift'},{'totalCount': 572},{'totalCount': 157},{'totalCount': 172}
+pandas,2010-08-24T01:37:33Z,2019-09-08T19:00:51Z,{'totalCount': 51},{'name': 'Python'},{'totalCount': 8655},{'totalCount': 12768},{'totalCount': 15873}
+mall,2018-04-04T01:11:44Z,2019-09-08T16:16:41Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 0},{'totalCount': 156},{'totalCount': 169}
+polymer,2012-08-23T20:56:30Z,2019-09-08T14:58:50Z,{'totalCount': 112},{'name': 'HTML'},{'totalCount': 1023},{'totalCount': 3620},{'totalCount': 3862}
+hangzhou_house_knowledge,2018-02-24T01:54:18Z,2019-09-08T08:38:31Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 4},{'totalCount': 0},{'totalCount': 0}
+ember.js,2011-05-25T23:39:40Z,2019-09-08T14:41:45Z,{'totalCount': 266},{'name': 'JavaScript'},{'totalCount': 6908},{'totalCount': 5818},{'totalCount': 6042}
+front-end-interview-handbook,2018-01-13T19:40:08Z,2019-09-08T18:01:27Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 134},{'totalCount': 32},{'totalCount': 49}
+open-source-ios-apps,2015-01-26T23:32:34Z,2019-09-08T18:52:53Z,{'totalCount': 32},{'name': 'Swift'},{'totalCount': 508},{'totalCount': 194},{'totalCount': 195}
+ant-design-pro,2017-08-25T10:40:44Z,2019-09-08T14:03:40Z,{'totalCount': 17},{'name': 'TypeScript'},{'totalCount': 650},{'totalCount': 4174},{'totalCount': 4256}
+uppy,2015-11-16T12:32:33Z,2019-09-08T18:39:44Z,{'totalCount': 23},{'name': 'JavaScript'},{'totalCount': 846},{'totalCount': 839},{'totalCount': 903}
+composer,2011-06-08T08:53:00Z,2019-09-08T18:32:05Z,{'totalCount': 64},{'name': 'PHP'},{'totalCount': 1833},{'totalCount': 5234},{'totalCount': 5593}
+swiper,2012-03-14T19:11:45Z,2019-09-08T18:55:18Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 188},{'totalCount': 2658},{'totalCount': 2851}
+sails,2012-03-18T19:46:15Z,2019-09-08T16:57:26Z,{'totalCount': 35},{'name': 'JavaScript'},{'totalCount': 497},{'totalCount': 5742},{'totalCount': 6004}
+netty,2010-11-09T09:22:21Z,2019-09-08T15:39:21Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 1045},{'totalCount': 4365},{'totalCount': 4765}
+nativefier,2015-07-05T05:56:42Z,2019-09-08T19:23:06Z,{'totalCount': 29},{'name': 'JavaScript'},{'totalCount': 127},{'totalCount': 505},{'totalCount': 676}
+tidb,2015-09-06T04:01:52Z,2019-09-08T17:03:05Z,{'totalCount': 70},{'name': 'Go'},{'totalCount': 7881},{'totalCount': 2304},{'totalCount': 3217}
+iina,2016-12-19T07:18:45Z,2019-09-08T17:37:13Z,{'totalCount': 27},{'name': 'Swift'},{'totalCount': 339},{'totalCount': 1353},{'totalCount': 2029}
+hammer.js,2012-03-02T12:58:28Z,2019-09-08T10:48:45Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 114},{'totalCount': 746},{'totalCount': 989}
+faker.js,2010-05-15T00:53:07Z,2019-09-08T18:20:52Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 188},{'totalCount': 225},{'totalCount': 391}
+marked,2011-07-24T13:15:51Z,2019-09-08T14:53:15Z,{'totalCount': 17},{'name': 'JavaScript'},{'totalCount': 302},{'totalCount': 844},{'totalCount': 916}
+libpku,2018-11-22T13:33:06Z,2019-09-08T15:02:31Z,{'totalCount': 0},{'name': 'TeX'},{'totalCount': 17},{'totalCount': 28},{'totalCount': 29}
+mobx,2015-03-14T14:31:38Z,2019-09-08T16:10:33Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 619},{'totalCount': 1349},{'totalCount': 1377}
+practicalAI,2018-11-05T03:44:27Z,2019-09-08T18:50:55Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 114},{'totalCount': 11},{'totalCount': 12}
+ace,2010-10-27T10:43:36Z,2019-09-08T16:07:24Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 1257},{'totalCount': 1760},{'totalCount': 2363}
+webtorrent,2013-10-15T08:16:40Z,2019-09-08T14:27:45Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 365},{'totalCount': 1128},{'totalCount': 1234}
+cheerio,2011-10-09T04:23:20Z,2019-09-08T16:14:12Z,{'totalCount': 2},{'name': 'JavaScript'},{'totalCount': 277},{'totalCount': 714},{'totalCount': 905}
+mkcert,2018-06-25T05:33:03Z,2019-09-08T17:15:56Z,{'totalCount': 10},{'name': 'Go'},{'totalCount': 35},{'totalCount': 106},{'totalCount': 125}
+Vundle.vim,2010-10-17T23:17:53Z,2019-09-08T17:09:12Z,{'totalCount': 0},{'name': 'Vim script'},{'totalCount': 86},{'totalCount': 529},{'totalCount': 672}
+sweetalert,2014-09-30T11:12:48Z,2019-09-08T07:59:02Z,{'totalCount': 13},{'name': 'TypeScript'},{'totalCount': 82},{'totalCount': 533},{'totalCount': 638}
+pure,2013-04-22T16:16:39Z,2019-09-08T14:26:27Z,{'totalCount': 17},{'name': 'HTML'},{'totalCount': 132},{'totalCount': 498},{'totalCount': 516}
+v2ray-core,2015-09-04T11:42:53Z,2019-09-08T16:52:22Z,{'totalCount': 228},{'name': 'Go'},{'totalCount': 114},{'totalCount': 1515},{'totalCount': 1652}
+devise,2009-09-16T12:15:12Z,2019-09-08T03:09:54Z,{'totalCount': 14},{'name': 'Ruby'},{'totalCount': 703},{'totalCount': 3843},{'totalCount': 3879}
+linux-insides,2015-01-03T18:44:57Z,2019-09-08T16:35:32Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 477},{'totalCount': 117},{'totalCount': 147}
+bootstrap-material-design,2014-08-18T11:54:00Z,2019-09-08T14:43:49Z,{'totalCount': 27},{'name': 'CSS'},{'totalCount': 188},{'totalCount': 1026},{'totalCount': 1072}
+jieba,2012-09-29T07:52:01Z,2019-09-08T14:37:52Z,{'totalCount': 5},{'name': 'Python'},{'totalCount': 86},{'totalCount': 171},{'totalCount': 626}
+flow,2014-10-28T17:17:45Z,2019-09-08T14:26:23Z,{'totalCount': 147},{'name': 'OCaml'},{'totalCount': 153},{'totalCount': 3721},{'totalCount': 6091}
+particles.js,2014-09-06T14:29:47Z,2019-09-08T19:24:37Z,{'totalCount': 6},{'name': 'JavaScript'},{'totalCount': 21},{'totalCount': 63},{'totalCount': 298}
+project-guidelines,2017-06-30T10:17:55Z,2019-09-08T12:48:25Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 97},{'totalCount': 24},{'totalCount': 36}
+SecLists,2012-02-19T01:30:18Z,2019-09-08T18:32:15Z,{'totalCount': 6},{'name': 'PHP'},{'totalCount': 192},{'totalCount': 79},{'totalCount': 83}
+jadx,2013-03-18T17:08:21Z,2019-09-08T18:25:54Z,{'totalCount': 12},{'name': 'Java'},{'totalCount': 183},{'totalCount': 432},{'totalCount': 527}
+sequelize,2010-07-22T07:11:11Z,2019-09-08T18:48:41Z,{'totalCount': 304},{'name': 'JavaScript'},{'totalCount': 2375},{'totalCount': 7476},{'totalCount': 8013}
+PythonDataScienceHandbook,2016-08-10T14:24:36Z,2019-09-08T19:11:19Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 28},{'totalCount': 45},{'totalCount': 96}
+pop,2014-03-30T22:29:12Z,2019-09-08T00:22:27Z,{'totalCount': 3},{'name': 'Objective-C++'},{'totalCount': 100},{'totalCount': 210},{'totalCount': 254}
+upterm,2015-03-22T07:00:24Z,2019-09-08T12:20:27Z,{'totalCount': 187},{'name': 'TypeScript'},{'totalCount': 293},{'totalCount': 534},{'totalCount': 753}
+RxJS,2012-01-07T00:31:41Z,2019-09-08T11:57:49Z,{'totalCount': 34},{'name': 'JavaScript'},{'totalCount': 520},{'totalCount': 643},{'totalCount': 874}
+YouCompleteMe,2012-04-16T03:12:14Z,2019-09-08T16:51:35Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 580},{'totalCount': 2667},{'totalCount': 2722}
+rxjs,2015-03-15T06:17:10Z,2019-09-08T14:55:14Z,{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 1563},{'totalCount': 2054},{'totalCount': 2358}
+blog,2014-04-25T09:44:42Z,2019-09-08T16:09:51Z,{'totalCount': 0},,{'totalCount': 1},{'totalCount': 28},{'totalCount': 39}
+awesome-deep-learning-papers,2016-06-03T06:48:30Z,2019-09-08T19:17:27Z,{'totalCount': 0},{'name': 'TeX'},{'totalCount': 39},{'totalCount': 11},{'totalCount': 23}
+ReactiveCocoa,2012-03-02T22:11:24Z,2019-09-08T14:41:56Z,{'totalCount': 74},{'name': 'Swift'},{'totalCount': 1329},{'totalCount': 1939},{'totalCount': 1981}
+date-fns,2014-10-06T10:24:22Z,2019-09-08T19:01:53Z,{'totalCount': 61},{'name': 'JavaScript'},{'totalCount': 500},{'totalCount': 576},{'totalCount': 711}
+nprogress,2013-08-20T13:58:02Z,2019-09-08T16:51:01Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 31},{'totalCount': 45},{'totalCount': 128}
+fastText,2016-07-16T13:38:42Z,2019-09-08T17:21:54Z,{'totalCount': 3},{'name': 'HTML'},{'totalCount': 7},{'totalCount': 521},{'totalCount': 720}
+react-starter-kit,2014-04-16T13:08:18Z,2019-09-08T18:20:31Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 361},{'totalCount': 695},{'totalCount': 1129}
+layui,2015-09-22T08:12:03Z,2019-09-08T15:13:32Z,{'totalCount': 37},{'name': 'JavaScript'},{'totalCount': 31},{'totalCount': 58},{'totalCount': 396}
+istio,2016-11-18T23:57:21Z,2019-09-08T12:54:40Z,{'totalCount': 79},{'name': 'Go'},{'totalCount': 7080},{'totalCount': 5553},{'totalCount': 6524}
+mongoose,2010-04-06T21:39:05Z,2019-09-08T19:11:09Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 995},{'totalCount': 6416},{'totalCount': 6706}
+chinese-poetry,2016-09-02T03:32:25Z,2019-09-08T18:27:47Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 47},{'totalCount': 52},{'totalCount': 81}
+ResumeSample,2014-09-08T08:08:13Z,2019-09-08T15:01:30Z,{'totalCount': 0},,{'totalCount': 2},{'totalCount': 10},{'totalCount': 18}
+drone,2014-02-07T07:54:44Z,2019-09-08T17:13:24Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 810},{'totalCount': 1576},{'totalCount': 1631}
+dragula,2015-04-13T21:35:38Z,2019-09-07T19:44:50Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 57},{'totalCount': 286},{'totalCount': 453}
+cmder,2013-07-09T07:44:22Z,2019-09-08T11:33:50Z,{'totalCount': 23},{'name': 'C++'},{'totalCount': 284},{'totalCount': 1715},{'totalCount': 1729}
+nest,2017-02-04T20:12:52Z,2019-09-08T19:17:56Z,{'totalCount': 44},{'name': 'TypeScript'},{'totalCount': 787},{'totalCount': 1762},{'totalCount': 1835}
+awesome-sysadmin,2014-02-09T22:39:20Z,2019-09-08T15:25:58Z,{'totalCount': 0},,{'totalCount': 183},{'totalCount': 20},{'totalCount': 90}
+awesome-react-components,2016-06-24T15:19:33Z,2019-09-08T16:30:18Z,{'totalCount': 0},,{'totalCount': 51},{'totalCount': 31},{'totalCount': 31}
+fastjson,2011-11-03T06:58:52Z,2019-09-08T17:16:30Z,{'totalCount': 69},{'name': 'Java'},{'totalCount': 240},{'totalCount': 1206},{'totalCount': 2293}
+modern-js-cheatsheet,2017-09-18T14:56:00Z,2019-09-08T13:36:21Z,{'totalCount': 0},,{'totalCount': 76},{'totalCount': 36},{'totalCount': 42}
+Probabilistic-Programming-and-Bayesian-Methods-for-Hackers,2013-01-14T15:46:28Z,2019-09-08T15:25:23Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 225},{'totalCount': 79},{'totalCount': 199}
+PhotoSwipe,2011-04-07T05:46:29Z,2019-09-08T19:16:20Z,{'totalCount': 11},{'name': 'JavaScript'},{'totalCount': 49},{'totalCount': 1009},{'totalCount': 1472}
+iosched,2014-04-01T22:40:40Z,2019-09-08T16:16:24Z,{'totalCount': 2},{'name': 'Kotlin'},{'totalCount': 51},{'totalCount': 169},{'totalCount': 192}
+python-guide,2011-03-15T03:24:20Z,2019-09-08T18:25:07Z,{'totalCount': 0},{'name': 'Batchfile'},{'totalCount': 642},{'totalCount': 148},{'totalCount': 230}
+vimrc,2012-05-29T16:19:29Z,2019-09-08T18:30:49Z,{'totalCount': 0},{'name': 'Vim script'},{'totalCount': 51},{'totalCount': 280},{'totalCount': 377}
+nodemon,2010-10-03T12:50:52Z,2019-09-08T15:24:22Z,{'totalCount': 63},{'name': 'JavaScript'},{'totalCount': 250},{'totalCount': 1194},{'totalCount': 1202}
+localstack,2016-10-25T23:48:03Z,2019-09-08T18:49:48Z,{'totalCount': 6},{'name': 'Python'},{'totalCount': 458},{'totalCount': 608},{'totalCount': 1026}
+brew,2016-03-06T05:08:38Z,2019-09-08T18:24:12Z,{'totalCount': 116},{'name': 'Ruby'},{'totalCount': 3563},{'totalCount': 2211},{'totalCount': 2227}
+AiLearning,2017-02-25T08:53:02Z,2019-09-08T14:53:58Z,{'totalCount': 2},{'name': 'Python'},{'totalCount': 424},{'totalCount': 44},{'totalCount': 73}
+SwiftyJSON,2014-06-18T14:41:15Z,2019-09-08T09:56:16Z,{'totalCount': 21},{'name': 'Swift'},{'totalCount': 212},{'totalCount': 555},{'totalCount': 630}
+profile-summary-for-github,2017-12-10T13:29:15Z,2019-09-08T17:36:15Z,{'totalCount': 0},{'name': 'Vue'},{'totalCount': 20},{'totalCount': 53},{'totalCount': 63}
+vagrant,2010-01-21T08:34:27Z,2019-09-08T15:33:40Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 2037},{'totalCount': 7626},{'totalCount': 8064}
+tabler,2018-02-01T09:08:59Z,2019-09-08T18:05:04Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 77},{'totalCount': 186},{'totalCount': 233}
+the-swift-programming-language-in-chinese,2014-06-03T04:44:09Z,2019-09-08T13:14:19Z,{'totalCount': 1},{'name': 'CSS'},{'totalCount': 602},{'totalCount': 287},{'totalCount': 289}
+GPUImage,2012-02-13T15:20:02Z,2019-09-08T09:01:45Z,{'totalCount': 3},{'name': 'Objective-C'},{'totalCount': 241},{'totalCount': 1294},{'totalCount': 2189}
+redux-saga,2015-11-29T16:58:12Z,2019-09-08T18:15:53Z,{'totalCount': 48},{'name': 'JavaScript'},{'totalCount': 603},{'totalCount': 1097},{'totalCount': 1213}
+wepy,2016-11-14T08:06:56Z,2019-09-08T17:01:52Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 355},{'totalCount': 1605},{'totalCount': 1864}
+mastodon,2016-02-22T15:01:25Z,2019-09-08T17:18:00Z,{'totalCount': 126},{'name': 'Ruby'},{'totalCount': 5972},{'totalCount': 3529},{'totalCount': 4829}
+interview_internal_reference,2019-06-10T06:54:19Z,2019-09-08T17:58:55Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 16},{'totalCount': 13},{'totalCount': 21}
+components,2016-01-04T18:50:02Z,2019-09-08T18:10:52Z,{'totalCount': 107},{'name': 'TypeScript'},{'totalCount': 5907},{'totalCount': 8080},{'totalCount': 9777}
+framework,2013-01-10T21:27:28Z,2019-09-08T18:32:27Z,{'totalCount': 154},{'name': 'PHP'},{'totalCount': 8676},{'totalCount': 12477},{'totalCount': 12587}
+lerna,2015-12-04T09:36:55Z,2019-09-08T12:33:15Z,{'totalCount': 153},{'name': 'JavaScript'},{'totalCount': 548},{'totalCount': 1276},{'totalCount': 1504}
+the_silver_searcher,2011-11-19T19:50:47Z,2019-09-08T12:27:51Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 380},{'totalCount': 375},{'totalCount': 704}
+SmartRefreshLayout,2017-06-02T09:52:50Z,2019-09-08T15:46:29Z,{'totalCount': 7},{'name': 'Java'},{'totalCount': 5},{'totalCount': 963},{'totalCount': 1010}
+streisand,2014-03-23T21:56:19Z,2019-09-08T18:23:08Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 502},{'totalCount': 900},{'totalCount': 1028}
+pug,2010-06-23T01:05:42Z,2019-09-08T14:18:39Z,{'totalCount': 2},{'name': 'JavaScript'},{'totalCount': 469},{'totalCount': 2175},{'totalCount': 2375}
+terraform,2014-03-13T22:25:48Z,2019-09-08T16:51:34Z,{'totalCount': 99},{'name': 'Go'},{'totalCount': 7647},{'totalCount': 12077},{'totalCount': 13209}
+leveldb,2014-08-27T21:17:52Z,2019-09-08T15:56:36Z,{'totalCount': 20},{'name': 'C++'},{'totalCount': 25},{'totalCount': 452},{'totalCount': 534}
+web-starter-kit,2014-04-07T08:45:18Z,2019-09-08T00:40:10Z,{'totalCount': 14},{'name': 'HTML'},{'totalCount': 234},{'totalCount': 533},{'totalCount': 579}
+You-Dont-Need-jQuery,2015-11-21T16:02:26Z,2019-09-08T15:07:38Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 154},{'totalCount': 56},{'totalCount': 59}
+bluebird,2013-09-07T19:39:57Z,2019-09-08T13:17:34Z,{'totalCount': 119},{'name': 'JavaScript'},{'totalCount': 282},{'totalCount': 1043},{'totalCount': 1087}
+mpvue,2018-03-07T03:09:25Z,2019-09-08T16:36:23Z,{'totalCount': 19},{'name': 'JavaScript'},{'totalCount': 64},{'totalCount': 1241},{'totalCount': 1605}
+ItChat,2016-01-19T07:49:48Z,2019-09-08T10:24:37Z,{'totalCount': 13},{'name': 'Python'},{'totalCount': 29},{'totalCount': 577},{'totalCount': 768}
+awesome-javascript,2014-07-01T15:59:02Z,2019-09-08T16:11:02Z,{'totalCount': 0},,{'totalCount': 245},{'totalCount': 52},{'totalCount': 68}
+intro.js,2013-03-10T15:12:45Z,2019-09-07T04:21:55Z,{'totalCount': 18},{'name': 'HTML'},{'totalCount': 138},{'totalCount': 365},{'totalCount': 567}
+druid,2011-11-03T05:12:51Z,2019-09-08T15:40:24Z,{'totalCount': 32},{'name': 'Java'},{'totalCount': 852},{'totalCount': 999},{'totalCount': 2476}
+calculator,2019-01-28T17:55:49Z,2019-09-08T19:00:50Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 242},{'totalCount': 207},{'totalCount': 319}
+CodeMirror,2011-01-14T13:44:03Z,2019-09-08T18:26:03Z,{'totalCount': 121},{'name': 'JavaScript'},{'totalCount': 310},{'totalCount': 3185},{'totalCount': 3492}
+English-level-up-tips-for-Chinese,2017-05-30T07:18:52Z,2019-09-08T14:38:13Z,{'totalCount': 0},,{'totalCount': 19},{'totalCount': 39},{'totalCount': 51}
+RxAndroid,2014-08-19T03:46:38Z,2019-09-08T15:38:05Z,{'totalCount': 17},{'name': 'Java'},{'totalCount': 155},{'totalCount': 326},{'totalCount': 326}
+spacemacs,2012-12-17T21:34:03Z,2019-09-08T06:13:00Z,{'totalCount': 158},{'name': 'Emacs Lisp'},{'totalCount': 486},{'totalCount': 4641},{'totalCount': 6931}
+security-guide-for-developers,2016-06-08T15:56:25Z,2019-09-08T14:45:52Z,{'totalCount': 0},,{'totalCount': 26},{'totalCount': 4},{'totalCount': 10}
+mocha,2011-03-07T18:44:25Z,2019-09-08T18:13:04Z,{'totalCount': 39},{'name': 'JavaScript'},{'totalCount': 868},{'totalCount': 2110},{'totalCount': 2378}
+spring-boot-examples,2016-11-05T05:32:33Z,2019-09-08T18:44:47Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 4},{'totalCount': 72},{'totalCount': 84}
+scrcpy,2017-11-21T18:00:27Z,2019-09-08T17:41:34Z,{'totalCount': 12},{'name': 'C'},{'totalCount': 20},{'totalCount': 448},{'totalCount': 734}
+android-best-practices,2014-07-29T09:09:44Z,2019-09-08T17:40:24Z,{'totalCount': 0},,{'totalCount': 80},{'totalCount': 61},{'totalCount': 83}
+skrollr,2012-03-18T15:41:35Z,2019-09-06T21:45:06Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 35},{'totalCount': 533},{'totalCount': 776}
+tornado,2009-09-09T04:55:16Z,2019-09-08T15:22:02Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 711},{'totalCount': 1340},{'totalCount': 1491}
+How-to-Make-a-Computer-Operating-System,2013-11-29T17:36:32Z,2019-09-08T16:30:32Z,{'totalCount': 1},{'name': 'C'},{'totalCount': 42},{'totalCount': 24},{'totalCount': 62}
+open-source-mac-os-apps,2017-11-03T02:35:33Z,2019-09-08T17:05:36Z,{'totalCount': 0},{'name': 'Swift'},{'totalCount': 276},{'totalCount': 91},{'totalCount': 103}
+react-redux-links,2016-01-22T02:10:28Z,2019-09-08T16:36:56Z,{'totalCount': 0},,{'totalCount': 56},{'totalCount': 20},{'totalCount': 31}
+awesome-electron,2015-04-23T11:48:53Z,2019-09-08T15:02:22Z,{'totalCount': 0},,{'totalCount': 210},{'totalCount': 35},{'totalCount': 44}
+pipenv,2017-01-20T00:44:02Z,2019-09-08T18:14:19Z,{'totalCount': 6},{'name': 'Python'},{'totalCount': 897},{'totalCount': 2508},{'totalCount': 2781}
+octotree,2014-05-09T18:15:20Z,2019-09-08T18:26:51Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 175},{'totalCount': 458},{'totalCount': 505}
+Hystrix,2012-11-19T20:14:46Z,2019-09-08T14:27:05Z,{'totalCount': 79},{'name': 'Java'},{'totalCount': 672},{'totalCount': 667},{'totalCount': 974}
+BaseRecyclerViewAdapterHelper,2016-04-10T07:40:11Z,2019-09-08T14:36:38Z,{'totalCount': 175},{'name': 'Java'},{'totalCount': 189},{'totalCount': 2635},{'totalCount': 2642}
+alacritty,2016-02-18T05:02:30Z,2019-09-08T18:00:45Z,{'totalCount': 19},{'name': 'Rust'},{'totalCount': 696},{'totalCount': 1512},{'totalCount': 1877}
+js-stack-from-scratch,2016-10-02T13:31:23Z,2019-09-07T08:21:09Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 55},{'totalCount': 118},{'totalCount': 155}
+html2canvas,2011-07-16T01:05:58Z,2019-09-08T16:52:18Z,{'totalCount': 24},{'name': 'TypeScript'},{'totalCount': 93},{'totalCount': 1255},{'totalCount': 1725}
+lottie-web,2015-02-20T21:02:59Z,2019-09-08T15:52:34Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 66},{'totalCount': 1265},{'totalCount': 1691}
+lottie-ios,2016-10-06T22:38:38Z,2019-09-08T15:46:12Z,{'totalCount': 33},{'name': 'Swift'},{'totalCount': 251},{'totalCount': 609},{'totalCount': 701}
+ngx-admin,2016-05-25T10:09:03Z,2019-09-08T18:11:52Z,{'totalCount': 14},{'name': 'TypeScript'},{'totalCount': 237},{'totalCount': 1162},{'totalCount': 1430}
+gym,2016-04-27T14:59:16Z,2019-09-08T19:27:08Z,{'totalCount': 5},{'name': 'Python'},{'totalCount': 434},{'totalCount': 809},{'totalCount': 955}
+interactive-coding-challenges,2015-04-28T21:36:39Z,2019-09-08T17:30:51Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 161},{'totalCount': 28},{'totalCount': 48}
+The-Art-Of-Programming-By-July,2013-12-14T10:00:06Z,2019-09-08T07:15:12Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 254},{'totalCount': 82},{'totalCount': 126}
+scrollreveal,2014-01-16T17:37:20Z,2019-09-08T17:46:19Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 31},{'totalCount': 438},{'totalCount': 442}
+p3c,2017-06-23T06:15:51Z,2019-09-08T18:31:54Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 51},{'totalCount': 437},{'totalCount': 497}
+dokku,2013-06-08T10:26:57Z,2019-09-08T16:58:25Z,{'totalCount': 140},{'name': 'Shell'},{'totalCount': 1529},{'totalCount': 1873},{'totalCount': 1895}
+leetcode,2018-03-30T09:13:51Z,2019-09-08T19:14:34Z,{'totalCount': 2},{'name': 'JavaScript'},{'totalCount': 104},{'totalCount': 24},{'totalCount': 44}
+minio,2015-01-14T19:23:58Z,2019-09-08T18:19:23Z,{'totalCount': 119},{'name': 'Go'},{'totalCount': 4169},{'totalCount': 3324},{'totalCount': 3462}
+react-redux,2015-07-11T17:32:01Z,2019-09-08T13:11:31Z,{'totalCount': 86},{'name': 'JavaScript'},{'totalCount': 282},{'totalCount': 928},{'totalCount': 938}
+bert,2018-10-25T22:57:34Z,2019-09-08T16:10:09Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 31},{'totalCount': 268},{'totalCount': 715}
+enzyme,2015-11-10T21:45:38Z,2019-09-08T14:28:05Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 598},{'totalCount': 1331},{'totalCount': 1496}
+awesome-swift,2014-07-10T14:04:09Z,2019-09-08T15:42:36Z,{'totalCount': 0},{'name': 'Swift'},{'totalCount': 1196},{'totalCount': 104},{'totalCount': 107}
+uBlock,2015-04-01T17:51:11Z,2019-09-08T16:55:33Z,{'totalCount': 160},{'name': 'JavaScript'},{'totalCount': 111},{'totalCount': 3378},{'totalCount': 3453}
+emscripten,2011-02-12T05:23:30Z,2019-09-08T14:25:39Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 3709},{'totalCount': 3667},{'totalCount': 4638}
+vim,2015-08-18T21:03:56Z,2019-09-08T18:55:15Z,{'totalCount': 0},{'name': 'Vim script'},{'totalCount': 0},{'totalCount': 2255},{'totalCount': 3029}
+lighthouse,2016-03-08T01:03:11Z,2019-09-08T14:25:02Z,{'totalCount': 49},{'name': 'JavaScript'},{'totalCount': 2674},{'totalCount': 5867},{'totalCount': 6196}
+metasploit-framework,2011-08-30T06:13:20Z,2019-09-08T19:23:58Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 7242},{'totalCount': 2584},{'totalCount': 3280}
+pi-hole,2014-06-08T15:02:55Z,2019-09-08T17:39:29Z,{'totalCount': 52},{'name': 'Shell'},{'totalCount': 953},{'totalCount': 1485},{'totalCount': 1552}
+DesignPatternsPHP,2011-08-22T05:24:31Z,2019-09-08T18:51:00Z,{'totalCount': 0},{'name': 'PHP'},{'totalCount': 217},{'totalCount': 81},{'totalCount': 82}
+react-select,2014-08-26T04:27:45Z,2019-09-08T18:06:50Z,{'totalCount': 10},{'name': 'JavaScript'},{'totalCount': 761},{'totalCount': 1265},{'totalCount': 2453}
+nightmare,2014-04-05T22:19:51Z,2019-09-08T17:40:37Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 251},{'totalCount': 1053},{'totalCount': 1186}
+incubator-mxnet,2015-04-30T16:21:15Z,2019-09-08T18:44:59Z,{'totalCount': 19},{'name': 'Python'},{'totalCount': 6296},{'totalCount': 6765},{'totalCount': 8012}
+formik,2017-06-14T19:50:59Z,2019-09-08T19:22:14Z,{'totalCount': 102},{'name': 'TypeScript'},{'totalCount': 418},{'totalCount': 900},{'totalCount': 1187}
+fastclick,2012-02-13T08:38:00Z,2019-09-08T14:26:22Z,{'totalCount': 3},{'name': 'HTML'},{'totalCount': 67},{'totalCount': 178},{'totalCount': 385}
+Sortable,2013-12-19T10:10:13Z,2019-09-08T16:48:20Z,{'totalCount': 18},{'name': 'JavaScript'},{'totalCount': 199},{'totalCount': 1067},{'totalCount': 1237}
+CodeIgniter,2011-08-19T13:34:00Z,2019-09-08T19:00:51Z,{'totalCount': 0},{'name': 'PHP'},{'totalCount': 1244},{'totalCount': 2991},{'totalCount': 3045}
+NativeScript,2015-03-01T09:47:08Z,2019-09-08T09:03:35Z,{'totalCount': 40},{'name': 'TypeScript'},{'totalCount': 2312},{'totalCount': 4637},{'totalCount': 5145}
+guzzle,2011-02-28T02:44:05Z,2019-09-08T18:32:03Z,{'totalCount': 27},{'name': 'PHP'},{'totalCount': 582},{'totalCount': 1209},{'totalCount': 1480}
+gentelella,2015-05-15T06:57:27Z,2019-09-08T19:27:14Z,{'totalCount': 5},{'name': 'HTML'},{'totalCount': 147},{'totalCount': 521},{'totalCount': 584}
+normalizr,2014-08-20T08:41:38Z,2019-09-08T14:13:28Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 81},{'totalCount': 254},{'totalCount': 265}
+js-xlsx,2012-12-03T19:25:52Z,2019-09-08T19:21:00Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 44},{'totalCount': 1163},{'totalCount': 1435}
+autoprefixer,2013-03-14T05:04:51Z,2019-09-08T14:25:30Z,{'totalCount': 137},{'name': 'JavaScript'},{'totalCount': 223},{'totalCount': 953},{'totalCount': 967}
+weex,2016-03-11T10:18:11Z,2019-09-08T12:37:26Z,{'totalCount': 6},,{'totalCount': 1083},{'totalCount': 1310},{'totalCount': 1845}
+tesseract.js,2015-06-24T02:49:52Z,2019-09-08T14:24:47Z,{'totalCount': 21},{'name': 'JavaScript'},{'totalCount': 47},{'totalCount': 204},{'totalCount': 272}
+Masonry,2013-07-22T01:15:48Z,2019-09-08T04:53:04Z,{'totalCount': 1},{'name': 'Objective-C'},{'totalCount': 75},{'totalCount': 326},{'totalCount': 429}
+jsPDF,2009-12-06T14:56:32Z,2019-09-08T16:52:27Z,{'totalCount': 23},{'name': 'JavaScript'},{'totalCount': 559},{'totalCount': 1454},{'totalCount': 1563}
+cheat.sh,2017-05-07T21:40:56Z,2019-09-08T17:35:54Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 57},{'totalCount': 47},{'totalCount': 92}
+influxdb,2013-09-26T14:31:10Z,2019-09-08T18:33:17Z,{'totalCount': 20},{'name': 'Go'},{'totalCount': 5567},{'totalCount': 7889},{'totalCount': 8414}
+corefx,2014-11-06T23:42:48Z,2019-09-08T17:27:28Z,{'totalCount': 74},{'name': 'C#'},{'totalCount': 20724},{'totalCount': 14519},{'totalCount': 17076}
+ghidra,2019-03-01T03:27:48Z,2019-09-08T15:04:28Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 70},{'totalCount': 481},{'totalCount': 801}
+hub,2009-12-05T22:15:25Z,2019-09-08T18:14:02Z,{'totalCount': 52},{'name': 'Go'},{'totalCount': 349},{'totalCount': 1350},{'totalCount': 1522}
+Hero,2016-11-24T18:49:37Z,2019-09-08T15:02:09Z,{'totalCount': 34},{'name': 'Swift'},{'totalCount': 72},{'totalCount': 346},{'totalCount': 510}
+compose,2013-12-09T11:40:58Z,2019-09-08T16:37:43Z,{'totalCount': 111},{'name': 'Python'},{'totalCount': 1722},{'totalCount': 4005},{'totalCount': 4519}
+kubernetes-the-hard-way,2016-07-07T14:15:27Z,2019-09-08T16:52:46Z,{'totalCount': 0},,{'totalCount': 66},{'totalCount': 220},{'totalCount': 252}
+react-motion,2015-06-11T07:38:23Z,2019-09-08T16:26:11Z,{'totalCount': 4},{'name': 'JavaScript'},{'totalCount': 142},{'totalCount': 239},{'totalCount': 382}
+the-way-to-go_ZH_CN,2013-03-24T17:18:38Z,2019-09-08T15:58:48Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 497},{'totalCount': 135},{'totalCount': 156}
+popmotion,2014-08-17T16:23:07Z,2019-09-08T17:56:20Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 277},{'totalCount': 366},{'totalCount': 518}
+npm,2009-09-29T17:21:24Z,2019-09-08T17:14:34Z,{'totalCount': 261},,{'totalCount': 439},{'totalCount': 16504},{'totalCount': 18671}
+consul,2013-11-04T22:15:27Z,2019-09-08T18:33:12Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 2662},{'totalCount': 2740},{'totalCount': 3270}
+xgboost,2014-02-06T17:28:03Z,2019-09-08T18:42:47Z,{'totalCount': 14},{'name': 'C++'},{'totalCount': 1501},{'totalCount': 2855},{'totalCount': 2994}
+vapor,2016-01-18T22:37:52Z,2019-09-07T16:19:22Z,{'totalCount': 238},{'name': 'Swift'},{'totalCount': 743},{'totalCount': 1032},{'totalCount': 1122}
+RxSwift,2015-04-07T21:25:17Z,2019-09-08T18:09:01Z,{'totalCount': 62},{'name': 'Swift'},{'totalCount': 644},{'totalCount': 969},{'totalCount': 984}
+strapi,2015-09-30T15:34:48Z,2019-09-08T19:18:47Z,{'totalCount': 95},{'name': 'JavaScript'},{'totalCount': 1384},{'totalCount': 2147},{'totalCount': 2307}
+hosts,2014-07-04T01:05:27Z,2019-09-07T10:17:32Z,{'totalCount': 2},{'name': 'Rascal'},{'totalCount': 286},{'totalCount': 888},{'totalCount': 891}
+ramda,2013-06-21T20:32:35Z,2019-09-08T18:55:12Z,{'totalCount': 23},{'name': 'JavaScript'},{'totalCount': 1133},{'totalCount': 1194},{'totalCount': 1364}
+ngrok,2013-03-20T09:37:43Z,2019-09-08T10:17:53Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 34},{'totalCount': 358},{'totalCount': 522}
+picasso,2013-05-14T15:07:47Z,2019-09-07T04:25:46Z,{'totalCount': 6},{'name': 'Java'},{'totalCount': 451},{'totalCount': 1293},{'totalCount': 1462}
+neural-style,2015-09-01T04:55:14Z,2019-09-08T18:15:11Z,{'totalCount': 0},{'name': 'Lua'},{'totalCount': 16},{'totalCount': 141},{'totalCount': 430}
+react-native-elements,2016-09-08T14:21:41Z,2019-09-08T13:37:43Z,{'totalCount': 45},{'name': 'JavaScript'},{'totalCount': 592},{'totalCount': 1180},{'totalCount': 1252}
+docker-cheat-sheet,2014-08-05T20:04:20Z,2019-09-08T17:14:48Z,{'totalCount': 0},,{'totalCount': 121},{'totalCount': 19},{'totalCount': 22}
+955.WLB,2019-03-27T23:53:37Z,2019-09-08T11:55:54Z,{'totalCount': 0},,{'totalCount': 15},{'totalCount': 55},{'totalCount': 172}
+awesome-shell,2014-07-07T01:57:42Z,2019-09-08T19:20:19Z,{'totalCount': 0},,{'totalCount': 250},{'totalCount': 13},{'totalCount': 33}
+Skeleton,2011-04-30T20:04:24Z,2019-09-08T15:05:19Z,{'totalCount': 6},{'name': 'CSS'},{'totalCount': 25},{'totalCount': 121},{'totalCount': 189}
+cockroach,2014-02-06T00:18:47Z,2019-09-08T14:49:29Z,{'totalCount': 17},{'name': 'Go'},{'totalCount': 18491},{'totalCount': 18156},{'totalCount': 20404}
+hyperapp,2017-01-20T05:20:21Z,2019-09-08T14:26:07Z,{'totalCount': 26},{'name': 'JavaScript'},{'totalCount': 213},{'totalCount': 484},{'totalCount': 490}
+apollo,2016-03-04T10:24:23Z,2019-09-08T16:14:30Z,{'totalCount': 20},{'name': 'Java'},{'totalCount': 812},{'totalCount': 1283},{'totalCount': 1611}
+fonts,2012-12-19T13:31:50Z,2019-09-08T15:47:24Z,{'totalCount': 1},{'name': 'Shell'},{'totalCount': 72},{'totalCount': 77},{'totalCount': 203}
+monaco-editor,2016-06-07T16:56:31Z,2019-09-08T17:46:26Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 60},{'totalCount': 805},{'totalCount': 1455}
+BaiduPCS-Go,2017-11-30T05:09:26Z,2019-09-08T16:42:49Z,{'totalCount': 23},{'name': 'Go'},{'totalCount': 10},{'totalCount': 639},{'totalCount': 744}
+tutorials,2013-04-29T18:26:36Z,2019-09-08T19:13:35Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 5218},{'totalCount': 299},{'totalCount': 312}
+es6tutorial,2014-04-20T13:06:28Z,2019-09-08T15:05:09Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 309},{'totalCount': 424},{'totalCount': 424}
+ava,2014-11-18T17:20:26Z,2019-09-08T15:30:34Z,{'totalCount': 56},{'name': 'JavaScript'},{'totalCount': 719},{'totalCount': 1082},{'totalCount': 1224}
+react-virtualized,2015-11-03T00:48:07Z,2019-09-08T18:00:23Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 392},{'totalCount': 665},{'totalCount': 885}
+parse-server,2016-01-28T18:29:14Z,2019-09-08T16:24:48Z,{'totalCount': 69},{'name': 'JavaScript'},{'totalCount': 2031},{'totalCount': 3363},{'totalCount': 3399}
+metabase,2015-02-02T19:25:47Z,2019-09-08T19:20:09Z,{'totalCount': 93},{'name': 'Clojure'},{'totalCount': 4085},{'totalCount': 4047},{'totalCount': 6074}
+mongo,2009-01-15T16:15:18Z,2019-09-08T15:12:57Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 114},{'totalCount': 0},{'totalCount': 0}
+xi-editor,2016-04-26T23:03:23Z,2019-09-08T09:43:27Z,{'totalCount': 0},{'name': 'Rust'},{'totalCount': 604},{'totalCount': 364},{'totalCount': 494}
+Awesome-Design-Tools,2019-02-12T13:55:30Z,2019-09-08T16:38:12Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 195},{'totalCount': 15},{'totalCount': 21}
+handson-ml,2016-02-16T19:48:39Z,2019-09-08T13:58:26Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 39},{'totalCount': 362},{'totalCount': 416}
+flutter-go,2019-01-08T09:03:40Z,2019-09-08T16:48:04Z,{'totalCount': 4},{'name': 'Dart'},{'totalCount': 143},{'totalCount': 124},{'totalCount': 189}
+ipfs,2014-02-11T07:28:24Z,2019-09-08T17:25:33Z,{'totalCount': 0},,{'totalCount': 106},{'totalCount': 182},{'totalCount': 221}
+Java,2016-07-16T10:21:02Z,2019-09-08T18:38:05Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 316},{'totalCount': 94},{'totalCount': 111}
+dive,2018-05-13T15:44:01Z,2019-09-08T16:07:24Z,{'totalCount': 20},{'name': 'Go'},{'totalCount': 78},{'totalCount': 103},{'totalCount': 143}
+Android-Universal-Image-Loader,2011-11-27T18:48:23Z,2019-09-07T17:18:20Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 49},{'totalCount': 760},{'totalCount': 1200}
+jstraining,2016-10-27T12:00:26Z,2019-09-08T13:15:23Z,{'totalCount': 0},,{'totalCount': 15},{'totalCount': 40},{'totalCount': 40}
+pandoc,2010-03-20T20:34:23Z,2019-09-08T18:44:52Z,{'totalCount': 71},{'name': 'Haskell'},{'totalCount': 886},{'totalCount': 4072},{'totalCount': 4527}
+mostly-adequate-guide,2015-05-06T01:44:15Z,2019-09-08T11:30:48Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 247},{'totalCount': 171},{'totalCount': 208}
+imgui,2014-07-21T14:29:47Z,2019-09-08T19:04:41Z,{'totalCount': 61},{'name': 'C++'},{'totalCount': 225},{'totalCount': 1853},{'totalCount': 2218}
+FFmpeg,2011-04-14T14:12:38Z,2019-09-08T19:15:26Z,{'totalCount': 11},{'name': 'C'},{'totalCount': 15},{'totalCount': 0},{'totalCount': 0}
+material,2014-07-01T19:20:06Z,2019-09-08T16:28:33Z,{'totalCount': 2},{'name': 'JavaScript'},{'totalCount': 743},{'totalCount': 8427},{'totalCount': 8890}
+pyenv,2012-08-31T06:57:52Z,2019-09-08T19:01:38Z,{'totalCount': 21},{'name': 'Shell'},{'totalCount': 352},{'totalCount': 814},{'totalCount': 950}
+jquery-pjax,2011-02-26T02:44:18Z,2019-09-08T05:04:40Z,{'totalCount': 11},{'name': 'JavaScript'},{'totalCount': 81},{'totalCount': 386},{'totalCount': 438}
+draft-js,2016-02-19T20:18:26Z,2019-09-08T15:43:45Z,{'totalCount': 19},{'name': 'JavaScript'},{'totalCount': 212},{'totalCount': 840},{'totalCount': 1368}
+windows95,2018-08-23T05:04:38Z,2019-09-08T16:38:24Z,{'totalCount': 9},{'name': 'TypeScript'},{'totalCount': 13},{'totalCount': 78},{'totalCount': 127}
+material-dialogs,2014-11-03T03:21:42Z,2019-09-08T12:19:16Z,{'totalCount': 89},{'name': 'Kotlin'},{'totalCount': 164},{'totalCount': 1095},{'totalCount': 1107}
+rollup,2015-05-14T22:26:28Z,2019-09-08T15:19:56Z,{'totalCount': 89},{'name': 'JavaScript'},{'totalCount': 928},{'totalCount': 1857},{'totalCount': 1969}
+aria2,2010-11-27T09:41:48Z,2019-09-08T16:19:39Z,{'totalCount': 21},{'name': 'C++'},{'totalCount': 189},{'totalCount': 613},{'totalCount': 1209}
+data-science-ipython-notebooks,2015-01-23T19:38:29Z,2019-09-08T17:02:27Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 31},{'totalCount': 18},{'totalCount': 25}
+feather,2014-05-28T19:49:55Z,2019-09-08T14:26:07Z,{'totalCount': 46},{'name': 'JavaScript'},{'totalCount': 84},{'totalCount': 158},{'totalCount': 400}
+react-navigation,2017-01-26T19:51:40Z,2019-09-08T17:07:05Z,{'totalCount': 53},{'name': 'TypeScript'},{'totalCount': 736},{'totalCount': 4948},{'totalCount': 5096}
+nerd-fonts,2014-12-05T04:31:17Z,2019-09-08T16:06:50Z,{'totalCount': 19},{'name': 'CSS'},{'totalCount': 78},{'totalCount': 180},{'totalCount': 278}
+CNTK,2015-11-26T09:52:06Z,2019-09-08T12:01:28Z,{'totalCount': 32},{'name': 'C++'},{'totalCount': 255},{'totalCount': 2489},{'totalCount': 3179}
+gson,2015-03-19T18:21:20Z,2019-09-08T14:56:43Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 180},{'totalCount': 824},{'totalCount': 1191}
+docz,2018-03-17T04:24:10Z,2019-09-08T17:16:10Z,{'totalCount': 79},{'name': 'TypeScript'},{'totalCount': 214},{'totalCount': 540},{'totalCount': 789}
+flux,2014-07-20T23:33:08Z,2019-09-08T08:15:22Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 144},{'totalCount': 216},{'totalCount': 225}
+shellcheck,2012-11-17T03:15:11Z,2019-09-08T17:20:24Z,{'totalCount': 0},{'name': 'Haskell'},{'totalCount': 164},{'totalCount': 1043},{'totalCount': 1471}
+awesome-python-cn,2015-11-03T09:50:50Z,2019-09-08T16:02:18Z,{'totalCount': 0},{'name': 'Makefile'},{'totalCount': 43},{'totalCount': 9},{'totalCount': 9}
+arthas,2018-08-29T17:15:57Z,2019-09-08T18:05:12Z,{'totalCount': 5},{'name': 'Java'},{'totalCount': 137},{'totalCount': 544},{'totalCount': 622}
+vux,2016-02-15T03:23:27Z,2019-09-08T14:44:33Z,{'totalCount': 78},{'name': 'Vue'},{'totalCount': 308},{'totalCount': 2438},{'totalCount': 3136}
+SpinKit,2013-12-12T23:29:41Z,2019-09-08T07:02:10Z,{'totalCount': 7},{'name': 'CSS'},{'totalCount': 48},{'totalCount': 39},{'totalCount': 50}
+passport,2011-10-08T22:38:32Z,2019-09-08T18:04:00Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 42},{'totalCount': 315},{'totalCount': 617}
+velocity,2014-04-09T20:02:38Z,2019-09-08T17:42:32Z,{'totalCount': 18},{'name': 'JavaScript'},{'totalCount': 53},{'totalCount': 758},{'totalCount': 796}
+react-bootstrap,2013-12-27T19:06:07Z,2019-09-08T19:18:44Z,{'totalCount': 3},{'name': 'JavaScript'},{'totalCount': 1622},{'totalCount': 2333},{'totalCount': 2408}
+hhvm,2010-01-02T01:17:06Z,2019-09-08T14:26:14Z,{'totalCount': 15},{'name': 'C++'},{'totalCount': 86},{'totalCount': 4835},{'totalCount': 5660}
+mitmproxy,2010-02-16T04:10:13Z,2019-09-08T18:35:45Z,{'totalCount': 29},{'name': 'Python'},{'totalCount': 1329},{'totalCount': 1721},{'totalCount': 1977}
+os-tutorial,2014-09-29T08:39:34Z,2019-09-08T19:16:22Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 11},{'totalCount': 41},{'totalCount': 61}
+nsq,2012-05-12T14:37:08Z,2019-09-08T17:12:56Z,{'totalCount': 29},{'name': 'Go'},{'totalCount': 589},{'totalCount': 432},{'totalCount': 478}
+architecture.of.internet-product,2018-04-30T10:25:31Z,2019-09-07T16:22:44Z,{'totalCount': 0},,{'totalCount': 1},{'totalCount': 3},{'totalCount': 10}
+ruby,2010-02-27T15:55:23Z,2019-09-08T17:37:12Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 104},{'totalCount': 0},{'totalCount': 0}
+less.js,2010-02-20T17:25:38Z,2019-09-07T23:15:09Z,{'totalCount': 29},{'name': 'JavaScript'},{'totalCount': 392},{'totalCount': 2457},{'totalCount': 2594}
+mattermost-server,2015-06-15T06:50:02Z,2019-09-08T18:22:06Z,{'totalCount': 156},{'name': 'Go'},{'totalCount': 7450},{'totalCount': 3345},{'totalCount': 3609}
+ripgrep,2016-03-11T02:02:33Z,2019-09-08T19:26:57Z,{'totalCount': 61},{'name': 'Rust'},{'totalCount': 338},{'totalCount': 894},{'totalCount': 937}
+iris,2016-01-30T04:36:48Z,2019-09-08T18:33:10Z,{'totalCount': 15},{'name': 'Go'},{'totalCount': 134},{'totalCount': 773},{'totalCount': 778}
+commander.js,2011-08-14T21:33:58Z,2019-09-08T14:30:29Z,{'totalCount': 28},{'name': 'JavaScript'},{'totalCount': 260},{'totalCount': 519},{'totalCount': 572}
+react-beautiful-dnd,2017-08-09T03:37:15Z,2019-09-08T19:17:28Z,{'totalCount': 61},{'name': 'JavaScript'},{'totalCount': 421},{'totalCount': 705},{'totalCount': 794}
+tips,2015-07-15T07:24:48Z,2019-09-07T18:11:06Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 123},{'totalCount': 15},{'totalCount': 26}
+flv.js,2016-05-12T08:34:31Z,2019-09-08T14:55:28Z,{'totalCount': 12},{'name': 'JavaScript'},{'totalCount': 16},{'totalCount': 238},{'totalCount': 442}
+swagger-ui,2011-07-15T22:56:39Z,2019-09-08T18:39:59Z,{'totalCount': 131},{'name': 'JavaScript'},{'totalCount': 1192},{'totalCount': 3383},{'totalCount': 3790}
+awesome-docker,2014-09-21T17:01:48Z,2019-09-08T16:06:48Z,{'totalCount': 1},,{'totalCount': 600},{'totalCount': 74},{'totalCount': 77}
+homebrew-cask,2012-03-05T02:05:17Z,2019-09-08T19:04:28Z,{'totalCount': 81},{'name': 'Ruby'},{'totalCount': 51122},{'totalCount': 5002},{'totalCount': 5029}
+CS-Interview-Knowledge-Map,2018-03-19T02:38:12Z,2019-09-08T16:10:28Z,{'totalCount': 0},,{'totalCount': 60},{'totalCount': 74},{'totalCount': 100}
+vim-plug,2013-09-10T14:58:51Z,2019-09-08T15:02:29Z,{'totalCount': 4},{'name': 'Vim script'},{'totalCount': 122},{'totalCount': 635},{'totalCount': 681}
+new-pac,2016-03-23T08:43:36Z,2019-09-08T14:37:12Z,{'totalCount': 0},,{'totalCount': 0},{'totalCount': 602},{'totalCount': 605}
+libgdx,2012-08-10T19:34:38Z,2019-09-08T13:18:38Z,{'totalCount': 3},{'name': 'Java'},{'totalCount': 1948},{'totalCount': 2744},{'totalCount': 3006}
+elixir,2011-01-09T08:43:57Z,2019-09-08T18:46:10Z,{'totalCount': 93},{'name': 'Elixir'},{'totalCount': 4573},{'totalCount': 3811},{'totalCount': 3822}
+PhotoView,2012-07-17T16:39:00Z,2019-09-08T17:17:37Z,{'totalCount': 5},{'name': 'Java'},{'totalCount': 50},{'totalCount': 456},{'totalCount': 582}
+typeahead.js,2013-02-19T19:45:01Z,2019-09-06T21:45:42Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 106},{'totalCount': 903},{'totalCount': 1302}
+algorithms,2016-11-17T22:32:08Z,2019-09-08T18:26:54Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 316},{'totalCount': 59},{'totalCount': 91}
+gitea,2016-11-01T02:13:26Z,2019-09-08T18:33:37Z,{'totalCount': 67},{'name': 'Go'},{'totalCount': 3514},{'totalCount': 2912},{'totalCount': 3922}
+fresco,2015-03-02T09:58:04Z,2019-09-08T14:19:48Z,{'totalCount': 39},{'name': 'Java'},{'totalCount': 81},{'totalCount': 1934},{'totalCount': 2024}
+rclone,2014-03-16T16:19:57Z,2019-09-08T18:15:07Z,{'totalCount': 57},{'name': 'Go'},{'totalCount': 480},{'totalCount': 1878},{'totalCount': 2752}
+wtfpython,2017-08-28T20:22:19Z,2019-09-08T19:15:08Z,{'totalCount': 1},{'name': 'Python'},{'totalCount': 44},{'totalCount': 62},{'totalCount': 76}
+waifu2x,2015-05-17T07:29:15Z,2019-09-08T19:12:37Z,{'totalCount': 3},{'name': 'Lua'},{'totalCount': 58},{'totalCount': 143},{'totalCount': 232}
+localForage,2013-10-31T00:10:06Z,2019-09-08T15:08:09Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 253},{'totalCount': 433},{'totalCount': 567}
+engineering-blogs,2015-06-13T18:25:17Z,2019-09-08T15:19:19Z,{'totalCount': 0},{'name': 'Ruby'},{'totalCount': 659},{'totalCount': 60},{'totalCount': 70}
+monolog,2011-02-17T02:07:15Z,2019-09-08T16:54:52Z,{'totalCount': 32},{'name': 'PHP'},{'totalCount': 530},{'totalCount': 544},{'totalCount': 574}
+awesome-vscode,2016-02-07T23:02:45Z,2019-09-08T18:25:08Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 184},{'totalCount': 19},{'totalCount': 29}
+minikube,2016-04-15T22:38:35Z,2019-09-08T18:11:22Z,{'totalCount': 60},{'name': 'Go'},{'totalCount': 2114},{'totalCount': 2405},{'totalCount': 2822}
+husky,2014-06-23T12:14:21Z,2019-09-08T14:23:08Z,{'totalCount': 8},{'name': 'JavaScript'},{'totalCount': 107},{'totalCount': 288},{'totalCount': 393}
+etcher,2015-10-27T16:53:23Z,2019-09-08T18:23:41Z,{'totalCount': 82},{'name': 'JavaScript'},{'totalCount': 1487},{'totalCount': 1057},{'totalCount': 1227}
+skill-map,2015-11-17T11:17:38Z,2019-09-08T15:04:57Z,{'totalCount': 2},{'name': 'HTML'},{'totalCount': 42},{'totalCount': 13},{'totalCount': 79}
+prisma,2016-09-25T12:54:40Z,2019-09-08T17:29:48Z,{'totalCount': 179},{'name': 'Scala'},{'totalCount': 1301},{'totalCount': 2693},{'totalCount': 3230}
+PowerShell,2016-01-13T23:41:35Z,2019-09-08T17:43:26Z,{'totalCount': 57},{'name': 'C#'},{'totalCount': 3604},{'totalCount': 4067},{'totalCount': 6141}
+selenium,2013-01-14T21:40:56Z,2019-09-08T16:33:13Z,{'totalCount': 27},{'name': 'Java'},{'totalCount': 387},{'totalCount': 5505},{'totalCount': 5876}
+SnapKit,2014-06-05T21:13:40Z,2019-09-07T13:53:39Z,{'totalCount': 11},{'name': 'Swift'},{'totalCount': 102},{'totalCount': 403},{'totalCount': 457}
+faas,2016-12-22T12:51:39Z,2019-09-08T15:00:15Z,{'totalCount': 105},{'name': 'Go'},{'totalCount': 508},{'totalCount': 556},{'totalCount': 610}
+HelloGitHub,2016-05-04T06:24:11Z,2019-09-08T16:31:15Z,{'totalCount': 8},{'name': 'Python'},{'totalCount': 11},{'totalCount': 748},{'totalCount': 768}
+reselect,2015-07-01T11:06:45Z,2019-09-08T17:34:18Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 89},{'totalCount': 226},{'totalCount': 278}
+trackerslist,2016-04-24T11:57:57Z,2019-09-08T19:21:31Z,{'totalCount': 0},,{'totalCount': 1},{'totalCount': 165},{'totalCount': 169}
+MBProgressHUD,2009-05-31T21:45:41Z,2019-09-07T12:29:38Z,{'totalCount': 0},{'name': 'Objective-C'},{'totalCount': 89},{'totalCount': 314},{'totalCount': 365}
+fastai,2017-09-09T17:43:36Z,2019-09-08T18:25:30Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 1087},{'totalCount': 899},{'totalCount': 902}
+idiomatic.js,2011-05-25T17:48:59Z,2019-09-08T11:08:36Z,{'totalCount': 0},,{'totalCount': 108},{'totalCount': 44},{'totalCount': 74}
+django-rest-framework,2011-03-02T17:13:56Z,2019-09-08T19:09:13Z,{'totalCount': 13},{'name': 'Python'},{'totalCount': 2330},{'totalCount': 3121},{'totalCount': 3259}
+Micro8,2019-02-18T08:30:52Z,2019-09-08T15:13:24Z,{'totalCount': 0},,{'totalCount': 2},{'totalCount': 30},{'totalCount': 40}
+coffeescript,2009-12-18T01:39:53Z,2019-09-07T23:12:02Z,{'totalCount': 0},{'name': 'CoffeeScript'},{'totalCount': 807},{'totalCount': 3991},{'totalCount': 4026}
+Aerial,2015-10-26T21:21:31Z,2019-09-08T19:04:53Z,{'totalCount': 71},{'name': 'Swift'},{'totalCount': 152},{'totalCount': 595},{'totalCount': 613}
+react-native-guide,2015-04-10T03:34:17Z,2019-09-08T15:48:36Z,{'totalCount': 0},,{'totalCount': 48},{'totalCount': 18},{'totalCount': 19}
+OpenAPI-Specification,2014-03-03T16:53:36Z,2019-09-08T16:54:24Z,{'totalCount': 6},,{'totalCount': 525},{'totalCount': 776},{'totalCount': 1281}
+json,2013-07-04T08:47:49Z,2019-09-08T18:49:09Z,{'totalCount': 28},{'name': 'C++'},{'totalCount': 258},{'totalCount': 1309},{'totalCount': 1345}
+bower,2012-09-07T00:15:39Z,2019-09-07T15:02:53Z,{'totalCount': 36},{'name': 'JavaScript'},{'totalCount': 324},{'totalCount': 1683},{'totalCount': 1885}
+slate,2016-06-18T01:52:42Z,2019-09-08T17:11:53Z,{'totalCount': 18},{'name': 'JavaScript'},{'totalCount': 912},{'totalCount': 1460},{'totalCount': 1813}
+hubot,2011-08-27T08:30:59Z,2019-09-08T16:51:45Z,{'totalCount': 9},{'name': 'JavaScript'},{'totalCount': 508},{'totalCount': 679},{'totalCount': 736}
+jq,2012-07-18T19:57:25Z,2019-09-08T18:54:57Z,{'totalCount': 9},{'name': 'C'},{'totalCount': 183},{'totalCount': 1112},{'totalCount': 1545}
+baidu-netdisk-downloaderx,2018-04-23T05:31:01Z,2019-09-08T19:12:12Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 4},{'totalCount': 74},{'totalCount': 75}
+my-mac-os,2016-03-04T12:26:34Z,2019-09-08T18:59:33Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 14},{'totalCount': 65},{'totalCount': 66}
+macOS-Security-and-Privacy-Guide,2015-08-31T03:36:35Z,2019-09-08T17:19:28Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 117},{'totalCount': 202},{'totalCount': 205}
+bat,2018-04-21T10:52:23Z,2019-09-08T17:45:46Z,{'totalCount': 19},{'name': 'Rust'},{'totalCount': 229},{'totalCount': 361},{'totalCount': 388}
+python-fire,2017-02-21T21:35:07Z,2019-09-08T18:17:09Z,{'totalCount': 5},{'name': 'Python'},{'totalCount': 41},{'totalCount': 83},{'totalCount': 122}
+reddit,2008-06-18T23:30:53Z,2019-09-08T07:06:30Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 18},{'totalCount': 0},{'totalCount': 0}
+source-code-pro,2012-08-09T23:14:02Z,2019-09-08T14:42:59Z,{'totalCount': 11},{'name': 'CSS'},{'totalCount': 41},{'totalCount': 134},{'totalCount': 170}
+gorm,2013-10-25T08:31:38Z,2019-09-08T19:04:05Z,{'totalCount': 9},{'name': 'Go'},{'totalCount': 306},{'totalCount': 1656},{'totalCount': 2125}
+node-lessons,2014-10-05T09:57:08Z,2019-09-08T16:14:23Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 27},{'totalCount': 43},{'totalCount': 125}
+hosts,2017-08-05T16:10:32Z,2019-09-08T14:48:08Z,{'totalCount': 0},,{'totalCount': 38},{'totalCount': 295},{'totalCount': 339}
+sqlmap,2012-06-26T09:52:15Z,2019-09-08T17:15:38Z,{'totalCount': 4},{'name': 'Python'},{'totalCount': 102},{'totalCount': 3602},{'totalCount': 3645}
+Boostnote,2016-03-06T17:06:07Z,2019-09-08T19:18:34Z,{'totalCount': 15},{'name': 'JavaScript'},{'totalCount': 976},{'totalCount': 1601},{'totalCount': 2039}
+stackedit,2013-03-24T13:46:06Z,2019-09-08T15:31:47Z,{'totalCount': 13},{'name': 'JavaScript'},{'totalCount': 35},{'totalCount': 952},{'totalCount': 1428}
+ruby-style-guide,2011-09-12T13:03:05Z,2019-09-08T16:29:52Z,{'totalCount': 0},,{'totalCount': 301},{'totalCount': 226},{'totalCount': 284}
+mojs,2014-06-26T08:49:14Z,2019-09-08T15:01:17Z,{'totalCount': 14},{'name': 'JavaScript'},{'totalCount': 35},{'totalCount': 112},{'totalCount': 166}
+anko,2014-09-18T12:12:23Z,2019-09-08T13:26:56Z,{'totalCount': 26},{'name': 'Kotlin'},{'totalCount': 100},{'totalCount': 371},{'totalCount': 606}
+plyr,2015-02-14T11:33:07Z,2019-09-08T17:08:10Z,{'totalCount': 63},{'name': 'JavaScript'},{'totalCount': 216},{'totalCount': 911},{'totalCount': 1222}
+awesome-tensorflow,2016-02-27T17:00:27Z,2019-09-08T11:07:05Z,{'totalCount': 0},,{'totalCount': 103},{'totalCount': 10},{'totalCount': 10}
+tmux,2015-06-03T23:32:55Z,2019-09-08T15:45:37Z,{'totalCount': 25},{'name': 'C'},{'totalCount': 0},{'totalCount': 1601},{'totalCount': 1616}
+echo,2015-03-01T17:43:01Z,2019-09-08T19:16:20Z,{'totalCount': 72},{'name': 'Go'},{'totalCount': 278},{'totalCount': 863},{'totalCount': 889}
+fks,2012-10-17T05:55:16Z,2019-09-08T14:05:50Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 81},{'totalCount': 17},{'totalCount': 26}
+typeorm,2016-02-29T07:41:14Z,2019-09-08T16:01:58Z,{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 760},{'totalCount': 2752},{'totalCount': 3670}
+mint-ui,2016-05-17T09:54:10Z,2019-09-08T12:55:19Z,{'totalCount': 11},{'name': 'Vue'},{'totalCount': 297},{'totalCount': 971},{'totalCount': 1198}
+vue-devtools,2014-09-29T03:52:07Z,2019-09-08T15:17:00Z,{'totalCount': 28},{'name': 'JavaScript'},{'totalCount': 185},{'totalCount': 612},{'totalCount': 771}
+highlight.js,2011-01-01T23:47:21Z,2019-09-08T15:08:51Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 660},{'totalCount': 863},{'totalCount': 1149}
+apollo,2017-07-04T19:03:31Z,2019-09-08T18:04:07Z,{'totalCount': 7},{'name': 'C++'},{'totalCount': 6984},{'totalCount': 1469},{'totalCount': 1890}
+odoo,2014-05-13T15:38:58Z,2019-09-08T17:51:53Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 6023},{'totalCount': 9756},{'totalCount': 10957}
+uikit,2013-07-18T16:00:26Z,2019-09-08T19:04:00Z,{'totalCount': 138},{'name': 'CSS'},{'totalCount': 181},{'totalCount': 2862},{'totalCount': 3461}
+osquery,2014-07-29T20:27:33Z,2019-09-08T19:04:59Z,{'totalCount': 96},{'name': 'C++'},{'totalCount': 2958},{'totalCount': 1651},{'totalCount': 2194}
+eslint,2013-06-29T23:59:48Z,2019-09-08T18:41:50Z,{'totalCount': 195},{'name': 'JavaScript'},{'totalCount': 4083},{'totalCount': 7121},{'totalCount': 7249}
+wekan,2014-01-21T01:26:28Z,2019-09-08T18:10:37Z,{'totalCount': 93},{'name': 'JavaScript'},{'totalCount': 433},{'totalCount': 1495},{'totalCount': 2012}
+rocksdb,2012-11-30T06:16:18Z,2019-09-08T14:25:19Z,{'totalCount': 112},{'name': 'C++'},{'totalCount': 538},{'totalCount': 1463},{'totalCount': 1726}
+Kingfisher,2015-04-06T14:26:21Z,2019-09-08T03:09:15Z,{'totalCount': 118},{'name': 'Swift'},{'totalCount': 367},{'totalCount': 783},{'totalCount': 823}
+awesome-remote-job,2015-01-02T00:31:34Z,2019-09-08T15:02:55Z,{'totalCount': 0},,{'totalCount': 415},{'totalCount': 31},{'totalCount': 34}
+cleave.js,2016-05-18T12:45:03Z,2019-09-08T15:48:26Z,{'totalCount': 58},{'name': 'JavaScript'},{'totalCount': 106},{'totalCount': 291},{'totalCount': 371}
+servo,2012-02-08T19:07:25Z,2019-09-08T15:16:18Z,{'totalCount': 0},{'name': 'Rust'},{'totalCount': 12088},{'totalCount': 7001},{'totalCount': 9788}
+howler.js,2013-01-28T16:47:12Z,2019-09-08T03:51:45Z,{'totalCount': 19},{'name': 'JavaScript'},{'totalCount': 101},{'totalCount': 722},{'totalCount': 1008}
+keystone,2013-07-02T05:01:55Z,2019-09-07T08:34:15Z,{'totalCount': 16},{'name': 'JavaScript'},{'totalCount': 1734},{'totalCount': 2145},{'totalCount': 2438}
+blueprint,2016-10-25T21:17:50Z,2019-09-08T12:01:32Z,{'totalCount': 110},{'name': 'TypeScript'},{'totalCount': 1557},{'totalCount': 1470},{'totalCount': 1848}
+handlebars.js,2010-07-31T18:54:46Z,2019-09-08T15:24:16Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 262},{'totalCount': 1028},{'totalCount': 1143}
+react-native-web,2015-06-09T19:25:38Z,2019-09-08T17:27:46Z,{'totalCount': 13},{'name': 'JavaScript'},{'totalCount': 13},{'totalCount': 982},{'totalCount': 1053}
+kit,2015-02-03T00:01:19Z,2019-09-08T19:19:44Z,{'totalCount': 9},{'name': 'Go'},{'totalCount': 388},{'totalCount': 365},{'totalCount': 415}
+phpunit,2009-12-24T13:16:23Z,2019-09-08T14:56:03Z,{'totalCount': 33},{'name': 'PHP'},{'totalCount': 567},{'totalCount': 2399},{'totalCount': 2473}
+q,2010-09-04T01:21:12Z,2019-09-06T17:36:21Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 148},{'totalCount': 445},{'totalCount': 546}
+bootstrap,2012-10-05T18:27:01Z,2019-09-08T15:16:28Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 69},{'totalCount': 4185},{'totalCount': 4455}
+docker_practice,2014-09-05T04:06:39Z,2019-09-08T16:47:49Z,{'totalCount': 12},{'name': 'Go'},{'totalCount': 220},{'totalCount': 155},{'totalCount': 159}
+HanLP,2014-10-09T06:36:16Z,2019-09-08T14:39:07Z,{'totalCount': 45},{'name': 'Java'},{'totalCount': 54},{'totalCount': 668},{'totalCount': 1192}
+graphql-js,2015-06-30T12:16:50Z,2019-09-08T15:16:12Z,{'totalCount': 97},{'name': 'JavaScript'},{'totalCount': 1212},{'totalCount': 676},{'totalCount': 735}
+framework7,2014-02-23T12:15:53Z,2019-09-08T15:30:20Z,{'totalCount': 103},{'name': 'JavaScript'},{'totalCount': 334},{'totalCount': 2695},{'totalCount': 2800}
+SwiftGuide,2014-06-14T01:17:57Z,2019-09-08T10:57:18Z,{'totalCount': 0},{'name': 'Swift'},{'totalCount': 25},{'totalCount': 27},{'totalCount': 27}
+hexo-theme-next,2014-12-01T14:07:07Z,2019-09-08T13:38:29Z,{'totalCount': 18},{'name': 'CSS'},{'totalCount': 275},{'totalCount': 1765},{'totalCount': 1812}
+darknet,2014-04-11T07:59:16Z,2019-09-08T17:08:04Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 9},{'totalCount': 377},{'totalCount': 1602}
+vue-router,2013-12-11T19:37:46Z,2019-09-07T17:17:11Z,{'totalCount': 60},{'name': 'JavaScript'},{'totalCount': 473},{'totalCount': 2070},{'totalCount': 2193}
+wtfjs,2017-07-14T15:42:12Z,2019-09-08T18:15:27Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 53},{'totalCount': 27},{'totalCount': 55}
+generator-jhipster,2013-10-21T20:07:22Z,2019-09-08T18:37:54Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 4502},{'totalCount': 5206},{'totalCount': 5273}
+pace,2013-09-12T04:24:29Z,2019-09-08T17:43:36Z,{'totalCount': 23},{'name': 'CSS'},{'totalCount': 28},{'totalCount': 138},{'totalCount': 413}
+ZeroNet,2015-01-12T00:41:38Z,2019-09-08T16:47:44Z,{'totalCount': 22},{'name': 'Python'},{'totalCount': 320},{'totalCount': 1163},{'totalCount': 1718}
+curl,2010-03-18T22:32:22Z,2019-09-08T19:05:51Z,{'totalCount': 38},{'name': 'C'},{'totalCount': 97},{'totalCount': 1801},{'totalCount': 1831}
+zepto,2010-09-20T07:57:57Z,2019-09-08T02:45:08Z,{'totalCount': 18},{'name': 'HTML'},{'totalCount': 217},{'totalCount': 677},{'totalCount': 743}
+react-demos,2015-03-23T10:50:07Z,2019-09-08T17:26:22Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 13},{'totalCount': 27},{'totalCount': 27}
+Flat-UI,2013-03-03T15:36:49Z,2019-09-08T17:36:01Z,{'totalCount': 1},{'name': 'CSS'},{'totalCount': 38},{'totalCount': 179},{'totalCount': 188}
+jasmine,2008-12-02T23:46:37Z,2019-09-07T03:00:30Z,{'totalCount': 38},{'name': 'JavaScript'},{'totalCount': 261},{'totalCount': 1167},{'totalCount': 1211}
+flexbox-layout,2016-05-04T08:11:22Z,2019-09-08T16:59:09Z,{'totalCount': 21},{'name': 'Kotlin'},{'totalCount': 226},{'totalCount': 186},{'totalCount': 246}
+mysql,2010-07-29T14:58:13Z,2019-09-08T14:46:53Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 103},{'totalCount': 1775},{'totalCount': 1889}
+superagent,2011-04-13T02:29:45Z,2019-09-08T11:53:51Z,{'totalCount': 55},{'name': 'JavaScript'},{'totalCount': 384},{'totalCount': 825},{'totalCount': 920}
+dropzone,2012-02-12T16:19:18Z,2019-09-06T18:48:09Z,{'totalCount': 31},{'name': 'JavaScript'},{'totalCount': 68},{'totalCount': 798},{'totalCount': 1629}
+cypress,2015-03-04T00:46:28Z,2019-09-08T18:32:47Z,{'totalCount': 187},{'name': 'CoffeeScript'},{'totalCount': 917},{'totalCount': 2854},{'totalCount': 3845}
+the-super-tiny-compiler,2016-03-11T04:19:18Z,2019-09-08T18:52:00Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 19},{'totalCount': 0},{'totalCount': 0}
+obs-studio,2013-10-01T02:40:31Z,2019-09-08T19:25:49Z,{'totalCount': 97},{'name': 'C'},{'totalCount': 1027},{'totalCount': 0},{'totalCount': 0}
+android-architecture-components,2017-05-09T21:09:14Z,2019-09-08T16:55:03Z,{'totalCount': 0},{'name': 'Kotlin'},{'totalCount': 144},{'totalCount': 243},{'totalCount': 477}
+ToolsOfTheTrade,2014-05-29T04:11:33Z,2019-09-08T17:48:28Z,{'totalCount': 0},,{'totalCount': 271},{'totalCount': 35},{'totalCount': 35}
+spaCy,2014-07-03T15:15:40Z,2019-09-08T18:52:49Z,{'totalCount': 59},{'name': 'Python'},{'totalCount': 912},{'totalCount': 3049},{'totalCount': 3216}
+ratchet,2012-08-17T05:41:57Z,2019-09-08T15:16:33Z,{'totalCount': 4},{'name': 'CSS'},{'totalCount': 231},{'totalCount': 332},{'totalCount': 535}
+algo,2016-05-15T03:42:48Z,2019-09-08T10:52:35Z,{'totalCount': 2},{'name': 'Python'},{'totalCount': 384},{'totalCount': 1062},{'totalCount': 1106}
+pure-bash-bible,2018-06-13T01:39:33Z,2019-09-08T19:15:42Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 21},{'totalCount': 16},{'totalCount': 31}
+pkg,2016-08-08T19:41:59Z,2019-09-08T16:29:01Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 37},{'totalCount': 271},{'totalCount': 677}
+Wox,2013-12-19T15:49:32Z,2019-09-08T18:57:43Z,{'totalCount': 25},{'name': 'C#'},{'totalCount': 165},{'totalCount': 1527},{'totalCount': 2291}
+statsd,2010-12-30T00:09:50Z,2019-09-08T00:48:51Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 285},{'totalCount': 212},{'totalCount': 250}
+react-spring,2018-03-07T15:39:32Z,2019-09-08T17:13:15Z,{'totalCount': 4},{'name': 'JavaScript'},{'totalCount': 197},{'totalCount': 475},{'totalCount': 565}
+tailwindcss,2017-10-06T14:59:14Z,2019-09-08T16:45:39Z,{'totalCount': 51},{'name': 'CSS'},{'totalCount': 425},{'totalCount': 503},{'totalCount': 535}
+swoole-src,2012-07-21T13:49:59Z,2019-09-08T14:25:38Z,{'totalCount': 172},{'name': 'C++'},{'totalCount': 552},{'totalCount': 2020},{'totalCount': 2082}
+masonry,2009-11-21T21:04:56Z,2019-09-08T16:36:54Z,{'totalCount': 22},{'name': 'HTML'},{'totalCount': 10},{'totalCount': 1041},{'totalCount': 1057}
+zheng,2016-10-04T10:07:06Z,2019-09-08T16:33:52Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 10},{'totalCount': 57},{'totalCount': 85}
+phoenix,2014-01-20T14:14:11Z,2019-09-08T18:46:22Z,{'totalCount': 20},{'name': 'Elixir'},{'totalCount': 1377},{'totalCount': 1766},{'totalCount': 1786}
+parallax,2013-08-01T15:28:05Z,2019-09-08T02:46:40Z,{'totalCount': 11},{'name': 'JavaScript'},{'totalCount': 14},{'totalCount': 199},{'totalCount': 237}
+tinker,2016-09-06T06:57:52Z,2019-09-07T08:22:57Z,{'totalCount': 28},{'name': 'Java'},{'totalCount': 48},{'totalCount': 958},{'totalCount': 1121}
+openpose,2017-04-24T14:06:31Z,2019-09-08T14:30:31Z,{'totalCount': 13},{'name': 'C++'},{'totalCount': 108},{'totalCount': 1145},{'totalCount': 1160}
+lectures,2017-02-06T11:32:46Z,2019-09-08T17:17:02Z,{'totalCount': 0},,{'totalCount': 4},{'totalCount': 6},{'totalCount': 15}
+recompose,2015-10-07T05:54:51Z,2019-09-08T09:38:18Z,{'totalCount': 42},{'name': 'JavaScript'},{'totalCount': 246},{'totalCount': 371},{'totalCount': 426}
+glances,2011-12-04T08:49:15Z,2019-09-08T13:26:13Z,{'totalCount': 18},{'name': 'Python'},{'totalCount': 339},{'totalCount': 991},{'totalCount': 1108}
+Daily-Interview-Question,2019-01-19T10:49:00Z,2019-09-08T16:54:43Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 14},{'totalCount': 118},{'totalCount': 256}
+acme.sh,2015-12-26T12:56:33Z,2019-09-08T17:21:49Z,{'totalCount': 24},{'name': 'Shell'},{'totalCount': 738},{'totalCount': 1022},{'totalCount': 1418}
+MS-DOS,2018-06-25T18:26:02Z,2019-09-08T14:25:18Z,{'totalCount': 0},{'name': 'Assembly'},{'totalCount': 34},{'totalCount': 39},{'totalCount': 52}
+websocketd,2013-02-14T14:52:55Z,2019-09-08T07:55:47Z,{'totalCount': 6},{'name': 'Go'},{'totalCount': 78},{'totalCount': 237},{'totalCount': 262}
+spf13-vim,2010-04-20T16:20:16Z,2019-09-08T09:24:15Z,{'totalCount': 0},{'name': 'Vim script'},{'totalCount': 256},{'totalCount': 406},{'totalCount': 716}
+winston,2010-12-29T18:49:51Z,2019-09-08T17:16:20Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 328},{'totalCount': 840},{'totalCount': 1082}
+validator.js,2010-10-06T06:58:48Z,2019-09-08T13:50:58Z,{'totalCount': 3},{'name': 'JavaScript'},{'totalCount': 343},{'totalCount': 529},{'totalCount': 601}
+trix,2013-08-01T22:21:30Z,2019-09-08T12:05:38Z,{'totalCount': 25},{'name': 'CoffeeScript'},{'totalCount': 98},{'totalCount': 488},{'totalCount': 518}
+HowToBeAProgrammer,2016-01-04T16:47:54Z,2019-09-08T14:00:50Z,{'totalCount': 0},,{'totalCount': 84},{'totalCount': 17},{'totalCount': 21}
+sharp,2013-08-19T20:24:24Z,2019-09-08T16:32:47Z,{'totalCount': 16},{'name': 'JavaScript'},{'totalCount': 156},{'totalCount': 1558},{'totalCount': 1637}
+vuepress,2018-04-05T16:58:38Z,2019-09-08T15:46:38Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 494},{'totalCount': 966},{'totalCount': 1122}
+awesome-blockchain-cn,2017-03-12T06:02:46Z,2019-09-08T13:04:35Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 7},{'totalCount': 19},{'totalCount': 26}
+inferno,2015-02-01T22:07:38Z,2019-09-08T16:57:09Z,{'totalCount': 153},{'name': 'JavaScript'},{'totalCount': 523},{'totalCount': 776},{'totalCount': 803}
+wechat_jump_game,2017-12-29T02:00:19Z,2019-09-08T11:37:11Z,{'totalCount': 2},{'name': 'Python'},{'totalCount': 146},{'totalCount': 958},{'totalCount': 983}
+vault,2015-02-25T00:15:59Z,2019-09-08T19:29:44Z,{'totalCount': 0},{'name': 'Go'},{'totalCount': 3746},{'totalCount': 2696},{'totalCount': 3146}
+ExoPlayer,2014-06-13T21:19:18Z,2019-09-08T16:53:30Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 385},{'totalCount': 5259},{'totalCount': 5605}
+css-protips,2015-08-29T12:29:03Z,2019-09-08T13:08:17Z,{'totalCount': 0},,{'totalCount': 39},{'totalCount': 37},{'totalCount': 42}
+medium-editor,2013-05-29T17:40:11Z,2019-09-08T15:02:19Z,{'totalCount': 149},{'name': 'JavaScript'},{'totalCount': 512},{'totalCount': 595},{'totalCount': 883}
+ui-router,2013-01-18T20:26:29Z,2019-09-07T21:26:03Z,{'totalCount': 51},{'name': 'TypeScript'},{'totalCount': 289},{'totalCount': 2810},{'totalCount': 3152}
+react-loadable,2017-03-09T18:41:17Z,2019-09-08T19:17:12Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 88},{'totalCount': 0},{'totalCount': 0}
+riot,2013-09-27T05:21:01Z,2019-09-08T14:26:04Z,{'totalCount': 25},{'name': 'JavaScript'},{'totalCount': 434},{'totalCount': 1996},{'totalCount': 2000}
+gfwlist,2015-03-13T13:24:56Z,2019-09-08T17:06:44Z,{'totalCount': 0},,{'totalCount': 0},{'totalCount': 1323},{'totalCount': 1671}
+magenta,2016-05-05T20:10:40Z,2019-09-08T13:35:32Z,{'totalCount': 32},{'name': 'Python'},{'totalCount': 862},{'totalCount': 400},{'totalCount': 588}
+dva,2016-06-24T09:06:16Z,2019-09-08T02:57:55Z,{'totalCount': 30},{'name': 'JavaScript'},{'totalCount': 186},{'totalCount': 1892},{'totalCount': 1927}
+ionicons,2013-10-10T14:34:18Z,2019-09-08T17:03:35Z,{'totalCount': 27},{'name': 'HTML'},{'totalCount': 26},{'totalCount': 367},{'totalCount': 625}
+Mask_RCNN,2017-10-19T20:28:34Z,2019-09-08T17:47:41Z,{'totalCount': 3},{'name': 'Python'},{'totalCount': 65},{'totalCount': 527},{'totalCount': 1545}
+solarized,2011-02-18T05:18:27Z,2019-09-08T16:14:06Z,{'totalCount': 0},{'name': 'Vim script'},{'totalCount': 21},{'totalCount': 93},{'totalCount': 242}
+lime,2012-10-03T18:10:02Z,2019-09-07T18:01:23Z,{'totalCount': 0},,{'totalCount': 159},{'totalCount': 378},{'totalCount': 399}
+airflow,2015-04-13T18:04:58Z,2019-09-08T19:01:03Z,{'totalCount': 11},{'name': 'Python'},{'totalCount': 2645},{'totalCount': 0},{'totalCount': 0}
+chinese-independent-developer,2017-09-21T11:08:23Z,2019-09-08T16:26:14Z,{'totalCount': 0},,{'totalCount': 76},{'totalCount': 40},{'totalCount': 42}
+crystal,2012-11-27T17:32:32Z,2019-09-08T15:19:37Z,{'totalCount': 75},{'name': 'Crystal'},{'totalCount': 2632},{'totalCount': 3818},{'totalCount': 4552}
+jenkins,2010-11-22T21:21:23Z,2019-09-08T11:30:45Z,{'totalCount': 5},{'name': 'Java'},{'totalCount': 2921},{'totalCount': 0},{'totalCount': 0}
+ice,2016-11-03T06:59:15Z,2019-09-08T17:15:43Z,{'totalCount': 13},{'name': 'JavaScript'},{'totalCount': 1509},{'totalCount': 1092},{'totalCount': 1129}
+N-blog,2013-05-27T06:46:58Z,2019-09-08T10:42:56Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 25},{'totalCount': 418},{'totalCount': 431}
+prepack,2015-10-28T23:25:08Z,2019-09-07T13:24:56Z,{'totalCount': 43},{'name': 'JavaScript'},{'totalCount': 500},{'totalCount': 560},{'totalCount': 766}
+plaid,2015-10-30T16:10:56Z,2019-09-08T11:06:52Z,{'totalCount': 0},{'name': 'Kotlin'},{'totalCount': 349},{'totalCount': 233},{'totalCount': 304}
+ipython,2010-05-10T04:46:06Z,2019-09-08T19:26:25Z,{'totalCount': 27},{'name': 'Python'},{'totalCount': 4771},{'totalCount': 4940},{'totalCount': 6126}
+react-sketchapp,2017-04-21T18:27:39Z,2019-09-08T04:07:17Z,{'totalCount': 16},{'name': 'JavaScript'},{'totalCount': 142},{'totalCount': 216},{'totalCount': 257}
+cobra,2013-09-03T20:40:26Z,2019-09-08T17:08:31Z,{'totalCount': 5},{'name': 'Go'},{'totalCount': 266},{'totalCount': 294},{'totalCount': 478}
+Android-CleanArchitecture,2014-08-19T14:09:26Z,2019-09-08T17:19:42Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 13},{'totalCount': 119},{'totalCount': 241}
+AR.js,2017-02-17T10:27:59Z,2019-09-08T07:40:02Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 62},{'totalCount': 418},{'totalCount': 476}
+redash,2013-10-28T13:19:39Z,2019-09-08T17:44:29Z,{'totalCount': 92},{'name': 'Python'},{'totalCount': 2006},{'totalCount': 1281},{'totalCount': 1630}
+quick-look-plugins,2013-12-07T15:43:33Z,2019-09-08T17:30:20Z,{'totalCount': 0},,{'totalCount': 20},{'totalCount': 67},{'totalCount': 70}
+zju-icicles,2016-06-28T16:17:32Z,2019-09-08T17:00:39Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 68},{'totalCount': 18},{'totalCount': 22}
+helm,2015-10-06T01:07:32Z,2019-09-08T17:30:42Z,{'totalCount': 76},{'name': 'Go'},{'totalCount': 2333},{'totalCount': 2680},{'totalCount': 3476}
+PHPMailer,2011-08-23T07:57:17Z,2019-09-08T14:39:21Z,{'totalCount': 33},{'name': 'PHP'},{'totalCount': 237},{'totalCount': 1380},{'totalCount': 1418}
+RedisDesktopManager,2013-08-05T07:51:08Z,2019-09-08T19:25:05Z,{'totalCount': 57},{'name': 'C++'},{'totalCount': 203},{'totalCount': 4190},{'totalCount': 4220}
+js-cookie,2015-03-19T15:57:47Z,2019-09-08T08:20:57Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 39},{'totalCount': 335},{'totalCount': 344}
+cs-video-courses,2016-10-21T17:02:11Z,2019-09-08T18:43:15Z,{'totalCount': 0},,{'totalCount': 64},{'totalCount': 18},{'totalCount': 21}
+egg,2016-06-18T06:53:23Z,2019-09-08T13:40:42Z,{'totalCount': 69},{'name': 'JavaScript'},{'totalCount': 888},{'totalCount': 2837},{'totalCount': 2915}
+learnGitBranching,2012-08-13T22:36:09Z,2019-09-08T05:53:15Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 279},{'totalCount': 261},{'totalCount': 288}
+Blog,2017-03-13T10:04:33Z,2019-09-08T15:17:53Z,{'totalCount': 0},,{'totalCount': 3},{'totalCount': 63},{'totalCount': 138}
+pyspider,2014-02-21T19:18:47Z,2019-09-08T03:10:02Z,{'totalCount': 13},{'name': 'Python'},{'totalCount': 88},{'totalCount': 532},{'totalCount': 758}
+f8app,2016-03-10T21:45:12Z,2019-09-08T09:53:29Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 14},{'totalCount': 186},{'totalCount': 202}
+fish-shell,2012-05-10T03:00:55Z,2019-09-08T18:49:29Z,{'totalCount': 24},{'name': 'Shell'},{'totalCount': 589},{'totalCount': 4035},{'totalCount': 4512}
+cocos2d-x,2010-11-18T23:17:00Z,2019-09-08T03:43:19Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 12109},{'totalCount': 3437},{'totalCount': 4654}
+folly,2012-06-01T20:49:04Z,2019-09-08T18:04:08Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 3},{'totalCount': 459},{'totalCount': 606}
+AspNetCore,2014-03-11T06:09:42Z,2019-09-08T18:40:24Z,{'totalCount': 59},{'name': 'C#'},{'totalCount': 2921},{'totalCount': 8039},{'totalCount': 9891}
+awesome-deep-learning,2015-01-02T19:28:35Z,2019-09-08T17:08:37Z,{'totalCount': 0},,{'totalCount': 85},{'totalCount': 11},{'totalCount': 11}
+Perfect,2015-10-02T18:20:08Z,2019-09-07T00:32:24Z,{'totalCount': 1},{'name': 'Swift'},{'totalCount': 74},{'totalCount': 131},{'totalCount': 177}
+professional-programming,2015-11-07T05:07:52Z,2019-09-08T15:41:32Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 18},{'totalCount': 7},{'totalCount': 7}
+kafka,2011-08-15T18:06:16Z,2019-09-08T16:31:36Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 1921},{'totalCount': 0},{'totalCount': 0}
+fabric.js,2010-06-09T22:24:38Z,2019-09-08T19:05:51Z,{'totalCount': 81},{'name': 'JavaScript'},{'totalCount': 1297},{'totalCount': 3843},{'totalCount': 4175}
+IQKeyboardManager,2013-08-25T11:32:48Z,2019-09-08T15:29:46Z,{'totalCount': 70},{'name': 'Objective-C'},{'totalCount': 90},{'totalCount': 1380},{'totalCount': 1426}
+Public-APIs,2016-01-13T18:53:25Z,2019-09-08T08:36:55Z,{'totalCount': 0},,{'totalCount': 206},{'totalCount': 25},{'totalCount': 27}
+realm-cocoa,2012-04-16T20:06:56Z,2019-09-08T03:58:49Z,{'totalCount': 124},{'name': 'Objective-C'},{'totalCount': 2024},{'totalCount': 3298},{'totalCount': 3760}
+draggable,2017-09-27T15:31:23Z,2019-09-08T14:16:42Z,{'totalCount': 9},{'name': 'JavaScript'},{'totalCount': 94},{'totalCount': 122},{'totalCount': 214}
+IntelliJ-IDEA-Tutorial,2015-08-17T15:25:52Z,2019-09-08T16:52:24Z,{'totalCount': 0},,{'totalCount': 37},{'totalCount': 64},{'totalCount': 66}
+mars,2016-12-12T04:39:54Z,2019-09-08T10:12:58Z,{'totalCount': 6},{'name': 'C++'},{'totalCount': 38},{'totalCount': 501},{'totalCount': 615}
+libuv,2013-11-30T00:29:56Z,2019-09-08T17:02:31Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 376},{'totalCount': 961},{'totalCount': 1038}
+hosts,2012-04-12T20:22:50Z,2019-09-08T16:50:14Z,{'totalCount': 152},{'name': 'Python'},{'totalCount': 238},{'totalCount': 663},{'totalCount': 716}
+webpack-dashboard,2016-08-14T17:44:33Z,2019-09-08T15:54:03Z,{'totalCount': 22},{'name': 'JavaScript'},{'totalCount': 79},{'totalCount': 168},{'totalCount': 201}
+angular-seed,2010-12-24T06:07:50Z,2019-09-07T03:23:48Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 10},{'totalCount': 203},{'totalCount': 212}
+NES.css,2018-09-24T01:49:11Z,2019-09-08T14:25:12Z,{'totalCount': 5},{'name': 'CSS'},{'totalCount': 182},{'totalCount': 117},{'totalCount': 135}
+v8,2014-09-24T15:24:30Z,2019-09-08T14:19:21Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 0},{'totalCount': 0},{'totalCount': 0}
+relay,2015-08-10T22:09:16Z,2019-09-08T15:47:21Z,{'totalCount': 49},{'name': 'JavaScript'},{'totalCount': 101},{'totalCount': 1300},{'totalCount': 1475}
+games,2012-01-05T19:48:55Z,2019-09-08T18:52:43Z,{'totalCount': 0},,{'totalCount': 192},{'totalCount': 72},{'totalCount': 192}
+Best-App,2013-08-30T14:32:19Z,2019-09-08T14:47:59Z,{'totalCount': 0},,{'totalCount': 48},{'totalCount': 30},{'totalCount': 62}
+celery,2009-04-24T11:31:24Z,2019-09-08T18:27:28Z,{'totalCount': 1},{'name': 'Python'},{'totalCount': 1067},{'totalCount': 3625},{'totalCount': 3911}
+docusaurus,2017-06-20T16:13:53Z,2019-09-08T18:55:52Z,{'totalCount': 42},{'name': 'JavaScript'},{'totalCount': 1082},{'totalCount': 528},{'totalCount': 576}
+mustache.js,2009-10-04T23:41:19Z,2019-09-08T14:41:08Z,{'totalCount': 14},{'name': 'JavaScript'},{'totalCount': 142},{'totalCount': 346},{'totalCount': 404}
+lazygit,2018-05-19T00:53:06Z,2019-09-08T19:17:01Z,{'totalCount': 57},{'name': 'Go'},{'totalCount': 188},{'totalCount': 188},{'totalCount': 268}
+Spring,2014-12-26T14:57:02Z,2019-09-07T03:01:22Z,{'totalCount': 0},{'name': 'Swift'},{'totalCount': 60},{'totalCount': 87},{'totalCount': 217}
+SwitchyOmega,2012-06-08T15:32:30Z,2019-09-08T16:55:57Z,{'totalCount': 51},{'name': 'CoffeeScript'},{'totalCount': 7},{'totalCount': 1606},{'totalCount': 1848}
+100-Days-Of-ML-Code,2018-08-05T13:32:48Z,2019-09-08T14:09:25Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 43},{'totalCount': 37},{'totalCount': 43}
+manim,2015-03-22T18:50:58Z,2019-09-08T17:25:51Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 316},{'totalCount': 246},{'totalCount': 336}
+amazeui,2014-08-04T14:23:37Z,2019-09-08T12:21:54Z,{'totalCount': 25},{'name': 'JavaScript'},{'totalCount': 418},{'totalCount': 562},{'totalCount': 692}
+BaiduExporter,2014-07-07T07:37:07Z,2019-09-08T13:43:04Z,{'totalCount': 10},{'name': 'JavaScript'},{'totalCount': 22},{'totalCount': 606},{'totalCount': 614}
+chromeless,2017-06-01T16:11:11Z,2019-09-07T13:00:34Z,{'totalCount': 7},{'name': 'TypeScript'},{'totalCount': 88},{'totalCount': 160},{'totalCount': 332}
+WeChatPlugin-MacOS,2017-04-20T14:37:37Z,2019-09-08T13:46:46Z,{'totalCount': 15},{'name': 'Objective-C'},{'totalCount': 7},{'totalCount': 423},{'totalCount': 554}
+Carbon,2012-09-08T02:56:20Z,2019-09-08T14:56:01Z,{'totalCount': 132},{'name': 'PHP'},{'totalCount': 800},{'totalCount': 781},{'totalCount': 786}
+AsyncDisplayKit,2014-06-27T05:29:02Z,2019-09-07T19:58:24Z,{'totalCount': 27},{'name': 'Objective-C++'},{'totalCount': 1662},{'totalCount': 1342},{'totalCount': 1363}
+TensorFlow-Course,2018-10-02T18:10:12Z,2019-09-08T17:41:15Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 6},{'totalCount': 6},{'totalCount': 8}
+YYKit,2013-04-10T19:47:33Z,2019-09-08T02:37:34Z,{'totalCount': 0},{'name': 'Objective-C'},{'totalCount': 32},{'totalCount': 235},{'totalCount': 460}
+pytorch-tutorial,2017-03-10T07:41:47Z,2019-09-08T16:26:40Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 21},{'totalCount': 103},{'totalCount': 139}
+http-api-design,2014-05-07T17:00:37Z,2019-09-08T15:18:52Z,{'totalCount': 0},,{'totalCount': 35},{'totalCount': 17},{'totalCount': 45}
+iTerm2-Color-Schemes,2011-04-01T04:01:46Z,2019-09-08T16:06:06Z,{'totalCount': 0},{'name': 'Shell'},{'totalCount': 141},{'totalCount': 43},{'totalCount': 53}
+hiring-without-whiteboards,2017-03-15T05:09:01Z,2019-09-08T18:48:56Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 760},{'totalCount': 0},{'totalCount': 0}
+Motrix,2018-12-18T11:45:05Z,2019-09-08T15:35:42Z,{'totalCount': 6},{'name': 'JavaScript'},{'totalCount': 51},{'totalCount': 237},{'totalCount': 352}
+Carthage,2014-10-10T19:54:55Z,2019-09-08T14:02:09Z,{'totalCount': 69},{'name': 'Swift'},{'totalCount': 894},{'totalCount': 1652},{'totalCount': 1794}
+functional-programming-jargon,2015-02-22T16:04:42Z,2019-09-08T19:17:05Z,{'totalCount': 0},,{'totalCount': 109},{'totalCount': 42},{'totalCount': 61}
+material-components-web,2016-12-05T16:04:09Z,2019-09-08T08:17:33Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 2213},{'totalCount': 1863},{'totalCount': 2216}
+fmdb,2010-07-06T22:50:17Z,2019-09-07T09:51:19Z,{'totalCount': 4},{'name': 'Objective-C'},{'totalCount': 135},{'totalCount': 295},{'totalCount': 502}
+go,2013-08-14T08:33:55Z,2019-09-08T14:11:05Z,{'totalCount': 0},,{'totalCount': 43},{'totalCount': 22},{'totalCount': 41}
+redux-thunk,2015-07-13T13:33:08Z,2019-09-08T14:16:16Z,{'totalCount': 12},{'name': 'JavaScript'},{'totalCount': 41},{'totalCount': 165},{'totalCount': 167}
+yii2,2012-02-13T15:32:36Z,2019-09-08T12:40:07Z,{'totalCount': 41},{'name': 'PHP'},{'totalCount': 4173},{'totalCount': 9923},{'totalCount': 10374}
+joi,2012-09-16T16:38:06Z,2019-09-08T15:48:11Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 331},{'totalCount': 1583},{'totalCount': 1592}
+ML-From-Scratch,2017-02-05T12:11:23Z,2019-09-08T17:20:38Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 8},{'totalCount': 30},{'totalCount': 39}
+amphtml,2015-09-01T22:10:53Z,2019-09-08T11:47:21Z,{'totalCount': 431},{'name': 'JavaScript'},{'totalCount': 12232},{'totalCount': 8013},{'totalCount': 9398}
+git-extras,2010-08-04T16:32:07Z,2019-09-08T14:56:17Z,{'totalCount': 13},{'name': 'Shell'},{'totalCount': 391},{'totalCount': 198},{'totalCount': 284}
+Material-Animations,2015-03-08T20:54:00Z,2019-09-08T14:02:25Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 12},{'totalCount': 27},{'totalCount': 40}
+iview-admin,2017-09-15T10:34:27Z,2019-09-08T15:27:09Z,{'totalCount': 30},{'name': 'Vue'},{'totalCount': 90},{'totalCount': 600},{'totalCount': 1130}
+API-Security-Checklist,2017-07-08T20:01:38Z,2019-09-07T13:15:19Z,{'totalCount': 0},,{'totalCount': 83},{'totalCount': 19},{'totalCount': 28}
+pwc,2018-09-02T12:06:52Z,2019-09-08T15:50:16Z,{'totalCount': 0},,{'totalCount': 10},{'totalCount': 4},{'totalCount': 15}
+chalk,2013-08-03T00:20:12Z,2019-09-08T17:59:40Z,{'totalCount': 13},{'name': 'JavaScript'},{'totalCount': 66},{'totalCount': 232},{'totalCount': 241}
+blessed-contrib,2015-01-14T14:18:07Z,2019-09-08T07:49:52Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 61},{'totalCount': 52},{'totalCount': 108}
+homemade-machine-learning,2018-11-01T04:34:19Z,2019-09-08T16:21:50Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 2},{'totalCount': 7},{'totalCount': 17}
+charts,2017-10-26T10:13:21Z,2019-09-08T14:24:46Z,{'totalCount': 3},{'name': 'JavaScript'},{'totalCount': 47},{'totalCount': 91},{'totalCount': 162}
+MJRefresh,2014-05-23T16:22:32Z,2019-09-07T10:05:44Z,{'totalCount': 20},{'name': 'Objective-C'},{'totalCount': 67},{'totalCount': 1089},{'totalCount': 1177}
+incubator-weex,2017-01-06T08:00:06Z,2019-09-08T12:36:37Z,{'totalCount': 4},{'name': 'C++'},{'totalCount': 1582},{'totalCount': 548},{'totalCount': 661}
+react-developer-roadmap,2018-06-16T13:40:50Z,2019-09-08T18:51:11Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 25},{'totalCount': 15},{'totalCount': 33}
+flatbuffers,2014-05-19T18:33:01Z,2019-09-08T15:28:49Z,{'totalCount': 16},{'name': 'C++'},{'totalCount': 680},{'totalCount': 972},{'totalCount': 1127}
+electronic-wechat,2016-02-18T09:09:53Z,2019-09-08T14:49:05Z,{'totalCount': 7},{'name': 'JavaScript'},{'totalCount': 59},{'totalCount': 397},{'totalCount': 595}
+gotty,2015-08-16T09:48:33Z,2019-09-08T14:26:04Z,{'totalCount': 16},{'name': 'Go'},{'totalCount': 33},{'totalCount': 114},{'totalCount': 174}
+browserify,2010-09-22T16:11:32Z,2019-09-07T15:52:36Z,{'totalCount': 12},{'name': 'JavaScript'},{'totalCount': 214},{'totalCount': 1082},{'totalCount': 1392}
+30-seconds-of-css,2018-02-25T13:22:25Z,2019-09-08T14:25:06Z,{'totalCount': 0},,{'totalCount': 76},{'totalCount': 47},{'totalCount': 51}
+Qix,2014-04-20T11:03:15Z,2019-09-08T12:02:09Z,{'totalCount': 1},,{'totalCount': 13},{'totalCount': 18},{'totalCount': 18}
+WordPress,2011-12-01T07:05:17Z,2019-09-08T15:36:46Z,{'totalCount': 0},{'name': 'PHP'},{'totalCount': 0},{'totalCount': 0},{'totalCount': 0}
+jsdom,2010-01-19T06:55:19Z,2019-09-08T17:30:04Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 594},{'totalCount': 1354},{'totalCount': 1631}
+loopback,2013-04-09T16:02:18Z,2019-09-08T12:25:50Z,{'totalCount': 3},{'name': 'JavaScript'},{'totalCount': 787},{'totalCount': 2996},{'totalCount': 3202}
+kibana,2013-01-26T04:00:59Z,2019-09-08T17:37:19Z,{'totalCount': 8},{'name': 'TypeScript'},{'totalCount': 23760},{'totalCount': 13233},{'totalCount': 17994}
+WaveFunctionCollapse,2016-09-30T11:53:17Z,2019-09-08T17:37:44Z,{'totalCount': 0},{'name': 'C#'},{'totalCount': 15},{'totalCount': 29},{'totalCount': 30}
+nuklear,2015-03-25T13:32:06Z,2019-09-08T14:26:03Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 193},{'totalCount': 444},{'totalCount': 638}
+postgrest,2014-06-13T00:23:00Z,2019-09-08T17:44:47Z,{'totalCount': 25},{'name': 'Haskell'},{'totalCount': 416},{'totalCount': 779},{'totalCount': 869}
+cayley,2014-06-05T18:49:41Z,2019-09-08T15:06:51Z,{'totalCount': 13},{'name': 'Go'},{'totalCount': 313},{'totalCount': 319},{'totalCount': 410}
+googletest,2015-07-28T15:07:53Z,2019-09-08T17:05:48Z,{'totalCount': 1},{'name': 'C++'},{'totalCount': 546},{'totalCount': 1202},{'totalCount': 1312}
+bootstrap-sass,2011-09-06T18:58:49Z,2019-09-05T23:12:49Z,{'totalCount': 13},{'name': 'Ruby'},{'totalCount': 139},{'totalCount': 811},{'totalCount': 815}
+svgo,2012-08-22T10:41:43Z,2019-09-08T19:21:54Z,{'totalCount': 32},{'name': 'JavaScript'},{'totalCount': 188},{'totalCount': 597},{'totalCount': 840}
+electron-react-boilerplate,2015-05-18T09:54:57Z,2019-09-08T06:42:18Z,{'totalCount': 36},{'name': 'JavaScript'},{'totalCount': 558},{'totalCount': 1027},{'totalCount': 1059}
+bazel,2014-06-12T16:00:38Z,2019-09-08T19:28:50Z,{'totalCount': 72},{'name': 'Java'},{'totalCount': 18},{'totalCount': 4929},{'totalCount': 6744}
+sanic,2016-05-26T04:38:22Z,2019-09-08T18:51:55Z,{'totalCount': 23},{'name': 'Python'},{'totalCount': 723},{'totalCount': 740},{'totalCount': 780}
+Mock,2013-04-26T08:06:57Z,2019-09-08T09:57:41Z,{'totalCount': 14},{'name': 'JavaScript'},{'totalCount': 6},{'totalCount': 123},{'totalCount': 330}
+vim-airline,2013-06-30T18:49:56Z,2019-09-08T16:03:32Z,{'totalCount': 10},{'name': 'Vim script'},{'totalCount': 438},{'totalCount': 1364},{'totalCount': 1384}
+cheatsheets-ai,2017-05-24T12:06:56Z,2019-09-08T17:26:06Z,{'totalCount': 0},,{'totalCount': 2},{'totalCount': 8},{'totalCount': 14}
+HarmonyOS,2019-08-09T11:24:00Z,2019-09-08T17:12:06Z,{'totalCount': 0},{'name': 'C'},{'totalCount': 13},{'totalCount': 0},{'totalCount': 0}
+WebViewJavascriptBridge,2011-08-28T02:25:27Z,2019-09-08T04:12:07Z,{'totalCount': 0},{'name': 'Objective-C'},{'totalCount': 77},{'totalCount': 195},{'totalCount': 241}
+Hack,2015-06-21T22:47:58Z,2019-09-08T13:49:29Z,{'totalCount': 15},{'name': 'Shell'},{'totalCount': 58},{'totalCount': 333},{'totalCount': 423}
+portainer,2016-05-19T20:15:28Z,2019-09-08T17:39:26Z,{'totalCount': 66},{'name': 'HTML'},{'totalCount': 880},{'totalCount': 1543},{'totalCount': 2062}
+dep,2016-10-07T00:04:51Z,2019-09-08T17:23:35Z,{'totalCount': 12},{'name': 'Go'},{'totalCount': 681},{'totalCount': 1073},{'totalCount': 1322}
+NativeBase,2016-04-15T11:37:23Z,2019-09-08T18:01:21Z,{'totalCount': 81},{'name': 'JavaScript'},{'totalCount': 439},{'totalCount': 2173},{'totalCount': 2271}
+Python,2011-11-30T09:04:08Z,2019-09-08T18:56:57Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 351},{'totalCount': 37},{'totalCount': 91}
+immer,2017-12-29T12:25:47Z,2019-09-08T18:55:07Z,{'totalCount': 32},{'name': 'JavaScript'},{'totalCount': 125},{'totalCount': 242},{'totalCount': 250}
+wiki,2014-02-14T23:05:17Z,2019-09-08T14:22:56Z,{'totalCount': 0},,{'totalCount': 46},{'totalCount': 282},{'totalCount': 311}
+stream-handbook,2012-08-26T07:24:04Z,2019-09-08T17:56:02Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 14},{'totalCount': 11},{'totalCount': 46}
+fonts,2015-02-11T23:34:54Z,2019-09-08T19:00:51Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 792},{'totalCount': 498},{'totalCount': 1114}
+popper.js,2016-03-29T17:00:47Z,2019-09-08T18:16:28Z,{'totalCount': 94},{'name': 'JavaScript'},{'totalCount': 226},{'totalCount': 452},{'totalCount': 525}
+openface,2015-09-16T12:47:27Z,2019-09-08T15:29:24Z,{'totalCount': 4},{'name': 'Lua'},{'totalCount': 37},{'totalCount': 351},{'totalCount': 354}
+store.js,2010-06-27T20:29:33Z,2019-09-05T19:29:14Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 55},{'totalCount': 147},{'totalCount': 210}
+symphony,2012-07-05T06:09:54Z,2019-09-08T15:55:22Z,{'totalCount': 33},{'name': 'Java'},{'totalCount': 91},{'totalCount': 834},{'totalCount': 836}
+css-modules,2015-05-25T21:54:47Z,2019-09-08T14:27:09Z,{'totalCount': 0},,{'totalCount': 22},{'totalCount': 214},{'totalCount': 288}
+forever,2010-09-27T15:47:23Z,2019-09-08T18:20:56Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 71},{'totalCount': 579},{'totalCount': 860}
+awesome-for-beginners,2015-10-24T19:53:36Z,2019-09-08T17:56:08Z,{'totalCount': 0},,{'totalCount': 182},{'totalCount': 40},{'totalCount': 43}
+tomorrow-theme,2011-02-14T15:43:03Z,2019-09-08T05:57:57Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 131},{'totalCount': 76},{'totalCount': 154}
+PySnooper,2019-04-18T13:55:43Z,2019-09-08T19:05:25Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 44},{'totalCount': 66},{'totalCount': 84}
+handsontable,2011-05-23T22:38:58Z,2019-09-08T00:52:00Z,{'totalCount': 166},{'name': 'JavaScript'},{'totalCount': 388},{'totalCount': 4860},{'totalCount': 5424}
+reinforcement-learning,2016-08-24T17:02:41Z,2019-09-08T15:46:20Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 56},{'totalCount': 53},{'totalCount': 132}
+data,2014-03-17T13:49:17Z,2019-09-08T16:21:53Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 41},{'totalCount': 67},{'totalCount': 89}
+best-resume-ever,2017-01-30T23:02:00Z,2019-09-08T16:05:30Z,{'totalCount': 0},{'name': 'Vue'},{'totalCount': 125},{'totalCount': 85},{'totalCount': 107}
+node-inspector,2010-07-17T23:20:19Z,2019-09-08T09:14:33Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 118},{'totalCount': 592},{'totalCount': 814}
+vegeta,2013-08-13T11:45:21Z,2019-09-08T16:34:20Z,{'totalCount': 59},{'name': 'Go'},{'totalCount': 112},{'totalCount': 251},{'totalCount': 273}
+front-end-guide,2017-04-24T02:06:06Z,2019-09-08T16:28:40Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 14},{'totalCount': 8},{'totalCount': 9}
+rancher,2014-11-07T20:49:31Z,2019-09-08T14:18:44Z,{'totalCount': 399},{'name': 'Go'},{'totalCount': 2852},{'totalCount': 17542},{'totalCount': 19361}
+pytudes,2017-03-01T05:43:35Z,2019-09-08T16:38:46Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 37},{'totalCount': 10},{'totalCount': 16}
+Telegram,2013-10-25T14:08:10Z,2019-09-08T19:26:59Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 15},{'totalCount': 0},{'totalCount': 0}
+black,2018-03-14T19:54:45Z,2019-09-08T19:22:19Z,{'totalCount': 1},{'name': 'Python'},{'totalCount': 232},{'totalCount': 519},{'totalCount': 701}
+SwiftLint,2015-05-16T16:59:31Z,2019-09-08T15:02:41Z,{'totalCount': 67},{'name': 'Swift'},{'totalCount': 1109},{'totalCount': 1193},{'totalCount': 1462}
+recharts,2015-08-07T06:50:27Z,2019-09-08T11:15:42Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 206},{'totalCount': 962},{'totalCount': 1576}
+funNLP,2018-08-21T11:20:39Z,2019-09-08T17:56:56Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 8},{'totalCount': 11},{'totalCount': 12}
+openpilot,2016-11-24T01:33:30Z,2019-09-08T18:11:47Z,{'totalCount': 12},{'name': 'C'},{'totalCount': 215},{'totalCount': 248},{'totalCount': 273}
+pouchdb,2010-06-10T18:34:24Z,2019-09-07T20:56:13Z,{'totalCount': 62},{'name': 'JavaScript'},{'totalCount': 1365},{'totalCount': 3749},{'totalCount': 3797}
+homebridge,2014-12-01T16:37:39Z,2019-09-08T13:38:47Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 204},{'totalCount': 1933},{'totalCount': 2043}
+Snap.svg,2013-08-15T20:51:34Z,2019-09-08T17:35:28Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 41},{'totalCount': 283},{'totalCount': 513}
+logrus,2013-10-16T19:08:55Z,2019-09-08T17:33:10Z,{'totalCount': 7},{'name': 'Go'},{'totalCount': 330},{'totalCount': 322},{'totalCount': 443}
+requirejs,2010-02-03T21:08:14Z,2019-09-08T15:31:15Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 118},{'totalCount': 1256},{'totalCount': 1480}
+delve,2014-05-20T19:24:43Z,2019-09-08T14:26:21Z,{'totalCount': 4},{'name': 'Go'},{'totalCount': 543},{'totalCount': 857},{'totalCount': 939}
+yoga,2014-04-07T01:37:37Z,2019-09-08T09:20:11Z,{'totalCount': 21},{'name': 'C++'},{'totalCount': 102},{'totalCount': 250},{'totalCount': 420}
+CircleImageView,2014-01-17T16:44:46Z,2019-09-08T11:01:49Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 13},{'totalCount': 284},{'totalCount': 291}
+diaspora,2010-09-15T05:20:04Z,2019-09-05T23:11:39Z,{'totalCount': 82},{'name': 'Ruby'},{'totalCount': 1867},{'totalCount': 4159},{'totalCount': 4582}
+bitcoinbook,2013-08-11T23:18:28Z,2019-09-08T19:30:37Z,{'totalCount': 3},{'name': 'Python'},{'totalCount': 231},{'totalCount': 185},{'totalCount': 249}
+ws,2011-11-09T22:32:45Z,2019-09-08T08:10:47Z,{'totalCount': 52},{'name': 'JavaScript'},{'totalCount': 429},{'totalCount': 1040},{'totalCount': 1048}
+libra,2019-04-02T21:51:45Z,2019-09-08T17:54:31Z,{'totalCount': 0},{'name': 'Rust'},{'totalCount': 447},{'totalCount': 162},{'totalCount': 262}
+Chameleon,2014-07-26T09:01:09Z,2019-09-08T10:40:07Z,{'totalCount': 14},{'name': 'Objective-C'},{'totalCount': 57},{'totalCount': 106},{'totalCount': 136}
+awesome-rust,2014-07-17T10:45:10Z,2019-09-08T13:09:21Z,{'totalCount': 0},{'name': 'Rust'},{'totalCount': 592},{'totalCount': 54},{'totalCount': 66}
+flatpickr,2015-08-10T23:52:45Z,2019-09-07T18:09:10Z,{'totalCount': 128},{'name': 'TypeScript'},{'totalCount': 299},{'totalCount': 1285},{'totalCount': 1490}
+github-do-not-ban-us,2019-07-25T06:23:42Z,2019-09-08T12:32:57Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 1199},{'totalCount': 302},{'totalCount': 308}
+You-Dont-Need-JavaScript,2016-07-05T07:30:42Z,2019-09-08T17:21:20Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 40},{'totalCount': 8},{'totalCount': 33}
+nerdtree,2008-03-10T07:34:08Z,2019-09-08T16:16:21Z,{'totalCount': 0},{'name': 'Vim script'},{'totalCount': 223},{'totalCount': 697},{'totalCount': 708}
+luigi,2012-09-20T15:06:38Z,2019-09-08T07:29:37Z,{'totalCount': 42},{'name': 'Python'},{'totalCount': 1634},{'totalCount': 736},{'totalCount': 770}
+java8-tutorial,2014-03-16T17:25:43Z,2019-09-08T15:00:51Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 10},{'totalCount': 0},{'totalCount': 0}
+notable,2018-12-22T13:57:19Z,2019-09-08T18:55:00Z,{'totalCount': 15},{'name': 'TypeScript'},{'totalCount': 25},{'totalCount': 494},{'totalCount': 742}
+design-blocks,2017-08-03T13:22:43Z,2019-09-08T17:36:15Z,{'totalCount': 7},{'name': 'HTML'},{'totalCount': 26},{'totalCount': 53},{'totalCount': 66}
+uni-app,2018-07-12T08:52:39Z,2019-09-08T15:37:18Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 51},{'totalCount': 540},{'totalCount': 699}
+deepdream,2015-07-01T15:00:58Z,2019-09-08T13:20:56Z,{'totalCount': 0},,{'totalCount': 5},{'totalCount': 0},{'totalCount': 0}
+diff-so-fancy,2016-02-04T11:32:08Z,2019-09-08T03:32:12Z,{'totalCount': 30},{'name': 'Perl'},{'totalCount': 117},{'totalCount': 183},{'totalCount': 190}
+react-canvas,2015-02-05T23:46:30Z,2019-09-04T08:54:03Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 21},{'totalCount': 45},{'totalCount': 106}
+js-must-watch,2014-06-21T09:56:48Z,2019-09-07T13:09:28Z,{'totalCount': 0},,{'totalCount': 22},{'totalCount': 14},{'totalCount': 15}
+sass,2010-09-22T06:16:55Z,2019-09-08T17:24:55Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 246},{'totalCount': 2167},{'totalCount': 2257}
+iscroll,2010-12-03T19:03:44Z,2019-09-08T01:52:21Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 44},{'totalCount': 483},{'totalCount': 969}
+vivus,2014-05-13T22:22:18Z,2019-09-08T17:43:09Z,{'totalCount': 14},{'name': 'JavaScript'},{'totalCount': 29},{'totalCount': 172},{'totalCount': 179}
+scala,2011-12-01T05:02:34Z,2019-09-08T16:21:43Z,{'totalCount': 50},{'name': 'Scala'},{'totalCount': 6348},{'totalCount': 0},{'totalCount': 0}
+textmate,2012-08-08T16:25:52Z,2019-09-08T18:55:34Z,{'totalCount': 170},{'name': 'Objective-C++'},{'totalCount': 82},{'totalCount': 0},{'totalCount': 0}
+predictionio,2013-01-25T19:42:32Z,2019-09-08T00:40:03Z,{'totalCount': 1},{'name': 'Scala'},{'totalCount': 189},{'totalCount': 0},{'totalCount': 0}
+git-recipes,2015-10-10T06:53:17Z,2019-09-08T15:18:26Z,{'totalCount': 0},,{'totalCount': 24},{'totalCount': 46},{'totalCount': 53}
+ccxt,2017-05-14T15:41:56Z,2019-09-08T15:34:40Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 1710},{'totalCount': 3444},{'totalCount': 3750}
+guetzli,2016-10-21T15:13:18Z,2019-09-08T15:44:21Z,{'totalCount': 5},{'name': 'C++'},{'totalCount': 61},{'totalCount': 67},{'totalCount': 165}
+apollo-client,2016-02-26T20:25:00Z,2019-09-08T16:30:41Z,{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 2364},{'totalCount': 2063},{'totalCount': 2290}
+matomo,2011-03-30T21:18:17Z,2019-09-08T13:39:11Z,{'totalCount': 427},{'name': 'PHP'},{'totalCount': 3266},{'totalCount': 8690},{'totalCount': 10395}
+mui,2014-08-18T07:14:41Z,2019-09-08T13:23:58Z,{'totalCount': 25},{'name': 'JavaScript'},{'totalCount': 16},{'totalCount': 117},{'totalCount': 426}
+coreclr,2015-01-30T22:10:02Z,2019-09-08T18:12:05Z,{'totalCount': 72},{'name': 'C#'},{'totalCount': 14842},{'totalCount': 7529},{'totalCount': 9506}
+FileSaver.js,2011-07-15T03:27:54Z,2019-09-08T18:46:06Z,{'totalCount': 13},{'name': 'JavaScript'},{'totalCount': 60},{'totalCount': 427},{'totalCount': 473}
+selectize.js,2012-08-29T18:31:57Z,2019-09-08T11:18:57Z,{'totalCount': 20},{'name': 'JavaScript'},{'totalCount': 103},{'totalCount': 605},{'totalCount': 1157}
+react-dnd,2014-10-19T13:29:28Z,2019-09-08T18:24:24Z,{'totalCount': 114},{'name': 'TypeScript'},{'totalCount': 339},{'totalCount': 1047},{'totalCount': 1093}
+grunt,2011-09-21T15:16:20Z,2019-09-08T10:33:58Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 84},{'totalCount': 1075},{'totalCount': 1211}
+SpaceVim,2016-12-26T04:40:55Z,2019-09-08T17:20:25Z,{'totalCount': 14},{'name': 'Vim script'},{'totalCount': 1416},{'totalCount': 1467},{'totalCount': 1506}
+graphql-spec,2015-07-01T01:26:56Z,2019-09-07T13:47:07Z,{'totalCount': 5},{'name': 'Shell'},{'totalCount': 195},{'totalCount': 285},{'totalCount': 348}
+ink,2017-06-12T06:12:28Z,2019-09-08T16:36:53Z,{'totalCount': 18},{'name': 'JavaScript'},{'totalCount': 66},{'totalCount': 92},{'totalCount': 127}
+lazysizes,2014-10-11T21:03:26Z,2019-09-08T18:43:02Z,{'totalCount': 86},{'name': 'JavaScript'},{'totalCount': 49},{'totalCount': 493},{'totalCount': 604}
+PromiseKit,2014-04-04T13:54:37Z,2019-09-08T07:18:59Z,{'totalCount': 56},{'name': 'Swift'},{'totalCount': 253},{'totalCount': 740},{'totalCount': 754}
+toml,2013-02-24T03:03:57Z,2019-09-08T08:26:49Z,{'totalCount': 5},,{'totalCount': 256},{'totalCount': 297},{'totalCount': 324}
+pytorch-transformers,2018-10-29T13:56:00Z,2019-09-08T19:08:28Z,{'totalCount': 12},{'name': 'Python'},{'totalCount': 244},{'totalCount': 676},{'totalCount': 893}
+rbenv,2011-08-01T20:51:48Z,2019-09-08T07:20:45Z,{'totalCount': 10},{'name': 'Shell'},{'totalCount': 122},{'totalCount': 835},{'totalCount': 862}
+CocoaPods,2011-08-14T00:10:53Z,2019-09-08T13:15:51Z,{'totalCount': 154},{'name': 'Ruby'},{'totalCount': 1408},{'totalCount': 7167},{'totalCount': 7331}
+fastify,2016-09-28T19:10:14Z,2019-09-08T15:51:48Z,{'totalCount': 125},{'name': 'JavaScript'},{'totalCount': 918},{'totalCount': 690},{'totalCount': 735}
+n,2011-01-05T14:53:19Z,2019-09-08T04:47:31Z,{'totalCount': 21},{'name': 'Shell'},{'totalCount': 119},{'totalCount': 374},{'totalCount': 380}
+solved-by-flexbox,2013-08-31T23:04:51Z,2019-09-07T17:05:56Z,{'totalCount': 0},{'name': 'CSS'},{'totalCount': 21},{'totalCount': 68},{'totalCount': 88}
+Screenshot-to-code,2017-10-16T11:41:48Z,2019-09-08T17:36:26Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 5},{'totalCount': 33},{'totalCount': 35}
+NLP-progress,2018-06-22T17:43:55Z,2019-09-08T16:37:06Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 243},{'totalCount': 44},{'totalCount': 60}
+lottie-react-native,2017-01-27T18:24:50Z,2019-09-08T16:53:13Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 97},{'totalCount': 331},{'totalCount': 409}
+redux-form,2015-07-31T16:07:03Z,2019-09-08T18:13:09Z,{'totalCount': 196},{'name': 'JavaScript'},{'totalCount': 719},{'totalCount': 3146},{'totalCount': 3587}
+sqlitebrowser,2014-05-04T01:54:44Z,2019-09-08T18:24:43Z,{'totalCount': 30},{'name': 'C++'},{'totalCount': 315},{'totalCount': 1250},{'totalCount': 1608}
+quasar,2015-10-05T15:45:36Z,2019-09-08T18:32:48Z,{'totalCount': 145},{'name': 'JavaScript'},{'totalCount': 1452},{'totalCount': 2998},{'totalCount': 3177}
+roslyn,2015-01-11T02:39:03Z,2019-09-08T18:36:49Z,{'totalCount': 38},{'name': 'C#'},{'totalCount': 15767},{'totalCount': 13287},{'totalCount': 19475}
+Signal-Android,2011-12-15T20:01:12Z,2019-09-08T15:04:35Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 235},{'totalCount': 6541},{'totalCount': 6899}
+SVProgressHUD,2011-03-28T19:23:04Z,2019-09-07T19:20:32Z,{'totalCount': 0},{'name': 'Objective-C'},{'totalCount': 125},{'totalCount': 612},{'totalCount': 650}
+fullstack,2019-06-02T20:10:10Z,2019-09-08T18:19:14Z,{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 9},{'totalCount': 18},{'totalCount': 29}
+react-native-vector-icons,2015-05-15T16:38:57Z,2019-09-08T19:16:06Z,{'totalCount': 55},{'name': 'JavaScript'},{'totalCount': 116},{'totalCount': 659},{'totalCount': 861}
+mean,2013-05-22T12:15:47Z,2019-09-06T10:42:07Z,{'totalCount': 15},{'name': 'TypeScript'},{'totalCount': 370},{'totalCount': 1219},{'totalCount': 1232}
+react-redux-universal-hot-example,2015-06-23T16:39:21Z,2019-09-06T05:24:05Z,{'totalCount': 1},{'name': 'JavaScript'},{'totalCount': 303},{'totalCount': 438},{'totalCount': 807}
+node_redis,2010-09-14T02:05:09Z,2019-09-08T17:19:57Z,{'totalCount': 31},{'name': 'JavaScript'},{'totalCount': 220},{'totalCount': 885},{'totalCount': 949}
+cli,2013-07-13T19:32:06Z,2019-09-08T15:47:25Z,{'totalCount': 10},{'name': 'Go'},{'totalCount': 354},{'totalCount': 345},{'totalCount': 407}
+mybatis-3,2013-02-14T19:03:32Z,2019-09-08T15:57:07Z,{'totalCount': 29},{'name': 'Java'},{'totalCount': 480},{'totalCount': 806},{'totalCount': 902}
+bootstrap-datepicker,2012-03-17T01:11:40Z,2019-09-08T16:43:49Z,{'totalCount': 18},{'name': 'JavaScript'},{'totalCount': 464},{'totalCount': 935},{'totalCount': 1627}
+chartist-js,2014-03-09T22:40:07Z,2019-09-08T07:46:31Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 100},{'totalCount': 701},{'totalCount': 992}
+create-react-native-app,2017-01-11T17:54:30Z,2019-09-08T17:41:29Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 64},{'totalCount': 666},{'totalCount': 666}
+spectacle,2010-07-11T01:58:03Z,2019-09-08T16:46:31Z,{'totalCount': 0},{'name': 'Objective-C'},{'totalCount': 31},{'totalCount': 714},{'totalCount': 853}
+core,2014-11-18T00:44:57Z,2019-09-08T18:34:20Z,{'totalCount': 75},{'name': 'Shell'},{'totalCount': 840},{'totalCount': 2205},{'totalCount': 2302}
+javascript-questions,2019-06-12T08:26:27Z,2019-09-08T18:20:41Z,{'totalCount': 0},,{'totalCount': 105},{'totalCount': 65},{'totalCount': 76}
+graphql-engine,2018-06-18T07:57:36Z,2019-09-08T19:21:53Z,{'totalCount': 51},{'name': 'JavaScript'},{'totalCount': 1039},{'totalCount': 983},{'totalCount': 1494}
+numpy,2010-09-13T23:02:39Z,2019-09-08T19:22:33Z,{'totalCount': 41},{'name': 'C'},{'totalCount': 5352},{'totalCount': 5879},{'totalCount': 7621}
+fanqiang,2015-01-14T00:34:25Z,2019-09-08T15:18:26Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 0},{'totalCount': 247},{'totalCount': 379}
+Virgilio,2019-03-12T18:45:36Z,2019-09-08T13:35:22Z,{'totalCount': 0},{'name': 'Jupyter Notebook'},{'totalCount': 50},{'totalCount': 6},{'totalCount': 7}
+youmightnotneedjquery,2014-01-16T00:21:17Z,2019-09-08T11:05:08Z,{'totalCount': 0},{'name': 'HTML'},{'totalCount': 43},{'totalCount': 41},{'totalCount': 101}
+GSYVideoPlayer,2016-11-13T12:34:31Z,2019-09-08T14:32:04Z,{'totalCount': 13},{'name': 'Java'},{'totalCount': 9},{'totalCount': 2167},{'totalCount': 2183}
+mithril.js,2014-03-17T01:59:39Z,2019-09-08T14:26:15Z,{'totalCount': 30},{'name': 'JavaScript'},{'totalCount': 854},{'totalCount': 1265},{'totalCount': 1402}
+LearningNotes,2016-06-08T16:09:17Z,2019-09-08T04:02:02Z,{'totalCount': 0},,{'totalCount': 17},{'totalCount': 6},{'totalCount': 67}
+parsedown,2013-07-10T20:23:25Z,2019-09-08T15:31:53Z,{'totalCount': 24},{'name': 'PHP'},{'totalCount': 120},{'totalCount': 437},{'totalCount': 472}
+FizzBuzzEnterpriseEdition,2012-11-24T00:14:41Z,2019-09-08T18:53:02Z,{'totalCount': 0},{'name': 'Java'},{'totalCount': 55},{'totalCount': 56},{'totalCount': 335}
+fabric,2009-05-01T01:14:24Z,2019-09-08T16:40:58Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 108},{'totalCount': 1197},{'totalCount': 1523}
+leetcode,2014-10-20T03:22:04Z,2019-09-08T14:51:44Z,{'totalCount': 0},{'name': 'C++'},{'totalCount': 71},{'totalCount': 32},{'totalCount': 47}
+Dress,2018-02-11T03:49:29Z,2019-09-08T17:55:03Z,{'totalCount': 0},{'name': 'Standard ML'},{'totalCount': 268},{'totalCount': 165},{'totalCount': 222}
+zipkin,2012-06-06T18:26:16Z,2019-09-08T02:56:58Z,{'totalCount': 54},{'name': 'Java'},{'totalCount': 1310},{'totalCount': 813},{'totalCount': 1049}
+nodemailer,2011-01-19T21:17:36Z,2019-09-08T10:29:01Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 134},{'totalCount': 873},{'totalCount': 884}
+logger,2015-03-20T22:30:12Z,2019-09-08T13:26:23Z,{'totalCount': 16},{'name': 'Java'},{'totalCount': 28},{'totalCount': 130},{'totalCount': 174}
+Functional-Light-JS,2016-08-17T01:40:50Z,2019-09-07T15:49:32Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 38},{'totalCount': 100},{'totalCount': 113}
+greenDAO,2011-10-22T16:15:14Z,2019-09-08T07:37:44Z,{'totalCount': 7},{'name': 'Java'},{'totalCount': 32},{'totalCount': 739},{'totalCount': 868}
+seata,2018-12-28T08:37:22Z,2019-09-08T16:47:45Z,{'totalCount': 22},{'name': 'Java'},{'totalCount': 589},{'totalCount': 650},{'totalCount': 824}
+tfjs,2018-03-05T05:41:02Z,2019-09-08T15:01:54Z,{'totalCount': 14},{'name': 'TypeScript'},{'totalCount': 294},{'totalCount': 1216},{'totalCount': 1658}
+bootswatch,2012-02-07T04:31:56Z,2019-09-08T15:36:14Z,{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 145},{'totalCount': 688},{'totalCount': 689}
+redox,2015-04-20T17:35:19Z,2019-09-08T18:22:42Z,{'totalCount': 23},{'name': 'Makefile'},{'totalCount': 580},{'totalCount': 0},{'totalCount': 0}
+CocoaLumberjack,2011-03-31T02:38:39Z,2019-09-08T07:55:02Z,{'totalCount': 38},{'name': 'Objective-C'},{'totalCount': 436},{'totalCount': 543},{'totalCount': 554}
+Respond,2011-02-07T12:41:33Z,2019-09-08T09:15:39Z,{'totalCount': 5},{'name': 'JavaScript'},{'totalCount': 35},{'totalCount': 179},{'totalCount': 255}
+dnSpy,2015-07-01T16:05:10Z,2019-09-08T17:36:35Z,{'totalCount': 1},{'name': 'C#'},{'totalCount': 40},{'totalCount': 1100},{'totalCount': 1195}
+nginx-proxy,2014-05-05T17:01:40Z,2019-09-08T15:23:48Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 159},{'totalCount': 506},{'totalCount': 966}
+DZNEmptyDataSet,2014-06-03T14:50:31Z,2019-09-08T01:22:33Z,{'totalCount': 0},{'name': 'Objective-C'},{'totalCount': 74},{'totalCount': 145},{'totalCount': 312}
+Awesome-Linux-Software,2016-08-06T13:16:29Z,2019-09-08T15:10:15Z,{'totalCount': 0},{'name': 'Python'},{'totalCount': 340},{'totalCount': 88},{'totalCount': 95}
+goreplay,2013-05-30T09:29:07Z,2019-09-08T09:11:40Z,{'totalCount': 31},{'name': 'Go'},{'totalCount': 196},{'totalCount': 291},{'totalCount': 436}
+NeteaseCloudMusicApi,2016-06-22T11:58:03Z,2019-09-08T18:32:56Z,{'totalCount': 65},{'name': 'JavaScript'},{'totalCount': 57},{'totalCount': 503},{'totalCount': 509}
+ScrollMagic,2013-09-23T08:08:53Z,2019-09-08T14:40:33Z,{'totalCount': 14},{'name': 'JavaScript'},{'totalCount': 33},{'totalCount': 396},{'totalCount': 837}
