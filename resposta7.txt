@@ -1,0 +1,15 @@
+Dados de repositórios cuja linguagem principal é popular (está no top 10 do enunciado):
+
+{
+    "medianaMPR": 306.5,
+    "medianaReleases": 12.0,
+    "medianaDSLU": 0.0
+}
+
+Dados de outros repositórios:
+
+{
+    "medianaMPR": 164.0,
+    "medianaReleases": 0.0,
+    "medianaDSLU": 0.0
+}

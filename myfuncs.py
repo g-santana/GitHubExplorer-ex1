@@ -38,4 +38,3 @@ def get_all_repos():
             ans += result['data']['search']['nodes']
 
     return ans
-
