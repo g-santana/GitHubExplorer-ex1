@@ -76,12 +76,12 @@ def from_json_to_csv():
     num_repo_pop_langs = len(list(filter(lambda x: x["popularLanguage"] is True, repos)))
 
     metricas = {
-        "medianaRAID": medianaRAID,
-        "medianaMPR": medianaMPR,
-        "medianaReleases": medianaReleases,
-        "medianaDSLU": medianaDSLU,
-        "totalRepPopLang": num_repo_pop_langs,
-        "medianaCVTI": medianaCVTI
+        "medianaRAID": medianaRAID,		# mediana de idade
+        "medianaMPR": medianaMPR,		# mediana de pull requests aceitas
+        "medianaReleases": medianaReleases,	# mediana de releases
+        "medianaDSLU": medianaDSLU,		# mediana de dias desde o ultimo update
+        "totalRepPopLang": num_repo_pop_langs,	# numero total de repositorios em linguagens populares
+        "medianaCVTI": medianaCVTI		# mediana da razao closed issues / total issues
     }
 
     # print(json.dumps(metricas, indent=4))
@@ -114,10 +114,10 @@ def questao_7():
     medianaDSLU_PL = round(((orderedByDSLU[mPopLangs[0]]["daysSinceLastUpdate"] +
                           orderedByDSLU[mPopLangs[1]]["daysSinceLastUpdate"]) / 2), 2)
 
-    metricas_PL = {
-        "medianaMPR": medianaMPR_PL,
-        "medianaReleases": medianaReleases_PL,
-        "medianaDSLU": medianaDSLU_PL,
+    metricas_PL = {				# dict de metricas de linguagens populares
+        "medianaMPR": medianaMPR_PL,		# mediana de pull requests aceitas
+        "medianaReleases": medianaReleases_PL,	# mediana de releases
+        "medianaDSLU": medianaDSLU_PL,		# mediana de dias desde o ultimo update
     }
 
     mNonPopLangs = [int((len(non_pop_langs) / 2) - 1), int(len(non_pop_langs) / 2)]
@@ -134,10 +134,10 @@ def questao_7():
     medianaDSLU_NPL = round(((orderedByDSLU[mNonPopLangs[0]]["daysSinceLastUpdate"] +
                               orderedByDSLU[mNonPopLangs[1]]["daysSinceLastUpdate"]) / 2), 2)
 
-    metricas_NPL = {
-        "medianaMPR": medianaMPR_NPL,
-        "medianaReleases": medianaReleases_NPL,
-        "medianaDSLU": medianaDSLU_NPL,
+    metricas_NPL = {				# dict de metricas de linguagens nao populares
+        "medianaMPR": medianaMPR_NPL,		# mediana de pull requests aceitas
+        "medianaReleases": medianaReleases_NPL,	# mediana de releases
+        "medianaDSLU": medianaDSLU_NPL,		# mediana de dias desde o ultimo update
     }
 
     with open('resposta7.txt', 'w') as f:
