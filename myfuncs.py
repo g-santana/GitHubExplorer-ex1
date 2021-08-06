@@ -12,7 +12,7 @@ def make_request(json):
     if response.status_code == 200:
         return response.json()
     else:
-        raise Exception(f"Query failed to run by returning code of {response.status_code}. {json['query']}. "
+        raise Exception(f"Query failed to run, returning code {response.status_code}. {json['query']}. "
                         f"{json['variables']}.")
 
 
